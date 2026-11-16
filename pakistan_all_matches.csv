@@ -1,0 +1,879 @@
+﻿match_id,match_date,match_type,gender,season,season_year,event,venue,city,team1,team2,toss_winner,toss_decision,winner
+1552776,2026-10-01,T20,male,2026,2026,Asian Games Men's Cricket Competition,Korogi Sports Park,Nisshin,Pakistan,Bangladesh,Pakistan,field,Pakistan
+1552779,2026-10-03,T20,male,2026,2026,Asian Games Men's Cricket Competition,Korogi Sports Park,Nisshin,Pakistan,India,India,bat,India
+1550708,2026-10-09,T20,male,2026/27,2026,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1550709,2026-10-11,T20,male,2026/27,2026,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1550710,2026-10-13,T20,male,2026/27,2026,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+1550713,2026-10-18,ODI,male,2026/27,2026,Pakistan ODI Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1550714,2026-10-20,ODI,male,2026/27,2026,Pakistan ODI Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,England,England,field,Pakistan
+1550716,2026-10-25,ODI,male,2026/27,2026,Pakistan ODI Tri-Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,England,Pakistan,field,Pakistan
+1550717,2026-10-27,ODI,male,2026/27,2026,Pakistan ODI Tri-Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+1550719,2026-10-31,ODI,male,2026/27,2026,Pakistan ODI Tri-Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1000881,2016-12-15,Test,male,2016/17,2016,Pakistan in Australia Test Series,Brisbane Cricket Ground,Brisbane,Pakistan,Australia,Australia,bat,Australia
+1000883,2016-12-26,Test,male,2016/17,2016,Pakistan in Australia Test Series,Melbourne Cricket Ground,,Pakistan,Australia,Pakistan,bat,Australia
+1000885,2017-01-03,Test,male,2016/17,2016,Pakistan in Australia Test Series,Sydney Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+1000887,2017-01-13,ODI,male,2016/17,2016,Pakistan in Australia ODI Series,Brisbane Cricket Ground,Brisbane,Pakistan,Australia,Australia,bat,Australia
+1000889,2017-01-15,ODI,male,2016/17,2016,Pakistan in Australia ODI Series,Melbourne Cricket Ground,,Pakistan,Australia,Australia,bat,Pakistan
+1000891,2017-01-19,ODI,male,2016/17,2016,Pakistan in Australia ODI Series,"WACA, Perth",Perth,Pakistan,Australia,Australia,field,Australia
+1000893,2017-01-22,ODI,male,2016/17,2016,Pakistan in Australia ODI Series,Sydney Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+1000895,2017-01-26,ODI,male,2016/17,2016,Pakistan in Australia ODI Series,Adelaide Oval,,Pakistan,Australia,Australia,bat,Australia
+1019993,2016-11-17,Test,male,2016/17,2016,Pakistan in New Zealand Test Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,field,New Zealand
+1019995,2016-11-25,Test,male,2016/17,2016,Pakistan in New Zealand Test Series,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,field,New Zealand
+1022353,2017-06-04,ODI,male,2017,2017,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,India,Pakistan,field,India
+1022359,2017-06-07,ODI,male,2017,2017,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,South Africa,South Africa,bat,Pakistan
+1022369,2017-06-12,ODI,male,2017,2017,ICC Champions Trophy,"Sophia Gardens, Cardiff",Cardiff,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1022371,2017-06-14,ODI,male,2017,2017,ICC Champions Trophy,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,Pakistan,field,Pakistan
+1022375,2017-06-18,ODI,male,2017,2017,ICC Champions Trophy,The Oval,London,Pakistan,India,India,field,Pakistan
+1050217,2016-09-23,T20,male,2016/17,2016,Pakistan v West Indies T20I Series,Dubai International Cricket Stadium,,Pakistan,West Indies,Pakistan,field,Pakistan
+1050219,2016-09-24,T20,male,2016/17,2016,Pakistan v West Indies T20I Series,Dubai International Cricket Stadium,,Pakistan,West Indies,West Indies,field,Pakistan
+1050221,2016-09-27,T20,male,2016/17,2016,Pakistan v West Indies T20I Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,West Indies,Pakistan,field,Pakistan
+1050223,2016-09-30,ODI,male,2016/17,2016,Pakistan v West Indies ODI Series,Sharjah Cricket Stadium,,Pakistan,West Indies,West Indies,field,Pakistan
+1050225,2016-10-02,ODI,male,2016/17,2016,Pakistan v West Indies ODI Series,Sharjah Cricket Stadium,,Pakistan,West Indies,Pakistan,bat,Pakistan
+1050227,2016-10-05,ODI,male,2016/17,2016,Pakistan v West Indies ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,West Indies,Pakistan,bat,Pakistan
+1050229,2016-10-13,Test,male,2016/17,2016,Pakistan v West Indies Test Series,Dubai International Cricket Stadium,,Pakistan,West Indies,Pakistan,bat,Pakistan
+1050231,2016-10-21,Test,male,2016/17,2016,Pakistan v West Indies Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,West Indies,Pakistan,bat,Pakistan
+1050233,2016-10-30,Test,male,2016/17,2016,Pakistan v West Indies Test Series,Sharjah Cricket Stadium,,Pakistan,West Indies,Pakistan,bat,West Indies
+1077947,2017-03-26,T20,male,2017,2017,Pakistan in West Indies T20I Series,Kensington Oval,Barbados,Pakistan,West Indies,Pakistan,field,Pakistan
+1077948,2017-03-30,T20,male,2017,2017,Pakistan in West Indies T20I Series,"Queen's Park Oval, Port of Spain, Trinidad",Trinidad,Pakistan,West Indies,West Indies,field,Pakistan
+1077949,2017-04-07,ODI,male,2017,2017,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,West Indies,field,West Indies
+1077950,2017-04-09,ODI,male,2017,2017,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,West Indies,field,Pakistan
+1077951,2017-04-11,ODI,male,2017,2017,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,West Indies,bat,Pakistan
+1077953,2017-04-21,Test,male,2017,2017,Pakistan in West Indies Test Series,Sabina Park,Jamaica,Pakistan,West Indies,Pakistan,field,Pakistan
+1077954,2017-04-30,Test,male,2017,2017,Pakistan in West Indies Test Series,Kensington Oval,Barbados,Pakistan,West Indies,West Indies,bat,West Indies
+1077955,2017-05-10,Test,male,2017,2017,Pakistan in West Indies Test Series,"Windsor Park, Roseau",Dominica,Pakistan,West Indies,West Indies,field,Pakistan
+1085495,2017-04-01,T20,male,2017,2017,Pakistan in West Indies T20I Series,"Queen's Park Oval, Port of Spain, Trinidad",Trinidad,Pakistan,West Indies,Pakistan,bat,West Indies
+1085496,2017-04-02,T20,male,2017,2017,Pakistan in West Indies T20I Series,"Queen's Park Oval, Port of Spain, Trinidad",Trinidad,Pakistan,West Indies,Pakistan,field,Pakistan
+1115802,2018-01-06,ODI,male,2017/18,2017,Pakistan tour of New Zealand,"Basin Reserve, Wellington",Wellington,Pakistan,New Zealand,Pakistan,field,New Zealand
+1115803,2018-01-09,ODI,male,2017/18,2017,Pakistan tour of New Zealand,"Saxton Oval, Nelson",Nelson,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1115804,2018-01-13,ODI,male,2017/18,2017,Pakistan tour of New Zealand,"University Oval, Dunedin",Dunedin,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1115805,2018-01-16,ODI,male,2017/18,2017,Pakistan tour of New Zealand,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1115806,2018-01-19,ODI,male,2017/18,2017,Pakistan tour of New Zealand,"Basin Reserve, Wellington",Wellington,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1115807,2018-01-22,T20,male,2017/18,2017,Pakistan tour of New Zealand,"Westpac Stadium, Wellington",Wellington,Pakistan,New Zealand,New Zealand,field,New Zealand
+1115808,2018-01-25,T20,male,2017/18,2017,Pakistan tour of New Zealand,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1115809,2018-01-28,T20,male,2017/18,2017,Pakistan tour of New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1117821,2017-09-12,T20,male,2017/18,2017,Independence Cup,"Gaddafi Stadium, Lahore",Lahore,Pakistan,ICC World XI,ICC World XI,field,Pakistan
+1117822,2017-09-13,T20,male,2017/18,2017,Independence Cup,"Gaddafi Stadium, Lahore",Lahore,Pakistan,ICC World XI,Pakistan,bat,ICC World XI
+1117824,2017-09-15,T20,male,2017/18,2017,Independence Cup,"Gaddafi Stadium, Lahore",Lahore,Pakistan,ICC World XI,ICC World XI,field,Pakistan
+1119535,2018-05-24,Test,male,2018,2018,"Pakistan tour of Ireland, England and Scotland",Lord's,London,Pakistan,England,England,bat,Pakistan
+1119536,2018-06-01,Test,male,2018,2018,"Pakistan tour of Ireland, England and Scotland",Headingley,Leeds,Pakistan,England,Pakistan,bat,England
+1120284,2017-09-28,Test,male,2017/18,2017,Sri Lanka tour of United Arab Emirates and Pakistan,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+1120285,2017-10-06,Test,male,2017/18,2017,Sri Lanka tour of United Arab Emirates and Pakistan,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+1120286,2017-10-13,ODI,male,2017/18,2017,Pakistan tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1120287,2017-10-16,ODI,male,2017/18,2017,Pakistan tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+1120288,2017-10-18,ODI,male,2017/18,2017,Pakistan tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1120289,2017-10-20,ODI,male,2017/18,2017,Pakistan tour of United Arab Emirates,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1120290,2017-10-23,ODI,male,2017/18,2017,Pakistan tour of United Arab Emirates,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1120291,2017-10-26,T20,male,2017/18,2017,Sri Lanka tour of United Arab Emirates and Pakistan,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1120292,2017-10-27,T20,male,2017/18,2017,Sri Lanka tour of United Arab Emirates and Pakistan,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1120293,2017-10-29,T20,male,2017/18,2017,Sri Lanka tour of United Arab Emirates and Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1127284,2018-05-11,Test,male,2018,2018,"Pakistan tour of Ireland, England and Scotland","Malahide Cricket Ground, Dublin",Dublin,Pakistan,Ireland,Ireland,field,Pakistan
+1127300,2018-06-12,T20,male,2018,2018,"Pakistan tour of Ireland, England and Scotland","Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,Pakistan,Scotland,Pakistan,bat,Pakistan
+1127301,2018-06-13,T20,male,2018,2018,"Pakistan tour of Ireland, England and Scotland","Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,Pakistan,Scotland,Pakistan,bat,Pakistan
+1140069,2018-04-01,T20,male,2018,2018,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,West Indies,field,Pakistan
+1140070,2018-04-02,T20,male,2018,2018,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,Pakistan,bat,Pakistan
+1140071,2018-04-03,T20,male,2018,2018,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,West Indies,bat,Pakistan
+1142913,2018-07-01,T20,male,2018,2018,Zimbabwe Twenty20 Tri-Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+1142914,2018-07-02,T20,male,2018,2018,Zimbabwe Twenty20 Tri-Series,Harare Sports Club,,Pakistan,Australia,Australia,field,Australia
+1142916,2018-07-04,T20,male,2018,2018,Zimbabwe Twenty20 Tri-Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+1142917,2018-07-05,T20,male,2018,2018,Zimbabwe Twenty20 Tri-Series,Harare Sports Club,,Pakistan,Australia,Australia,field,Pakistan
+1142919,2018-07-08,T20,male,2018,2018,Zimbabwe Twenty20 Tri-Series,Harare Sports Club,,Pakistan,Australia,Australia,bat,Pakistan
+1142920,2018-07-13,ODI,male,2018,2018,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+1142921,2018-07-16,ODI,male,2018,2018,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1142922,2018-07-18,ODI,male,2018,2018,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1142923,2018-07-20,ODI,male,2018,2018,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1142924,2018-07-22,ODI,male,2018,2018,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1144153,2018-12-26,Test,male,2018/19,2018,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,bat,South Africa
+1144154,2019-01-03,Test,male,2018/19,2018,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,South Africa
+1144155,2019-01-11,Test,male,2018/19,2018,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,South Africa,bat,South Africa
+1144156,2019-01-19,ODI,male,2018/19,2018,Pakistan tour of South Africa,"St George's Park, Port Elizabeth",Port Elizabeth,Pakistan,South Africa,South Africa,bat,Pakistan
+1144157,2019-01-22,ODI,male,2018/19,2018,Pakistan tour of South Africa,"Kingsmead, Durban",Durban,Pakistan,South Africa,South Africa,field,South Africa
+1144158,2019-01-25,ODI,male,2018/19,2018,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,bat,South Africa
+1144159,2019-01-27,ODI,male,2018/19,2018,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,field,Pakistan
+1144160,2019-01-30,ODI,male,2018/19,2018,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,South Africa
+1144161,2019-02-01,T20,male,2018/19,2018,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,Pakistan,field,South Africa
+1144162,2019-02-03,T20,male,2018/19,2018,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,field,South Africa
+1144163,2019-02-06,T20,male,2018/19,2018,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,field,Pakistan
+1144484,2019-05-31,ODI,male,2019,2019,World Cup,Trent Bridge,Nottingham,Pakistan,West Indies,West Indies,field,West Indies
+1144488,2019-06-03,ODI,male,2019,2019,World Cup,Trent Bridge,Nottingham,Pakistan,England,England,field,Pakistan
+1144499,2019-06-12,ODI,male,2019,2019,World Cup,"The County Ground, Taunton",Taunton,Pakistan,Australia,Pakistan,field,Australia
+1144504,2019-06-16,ODI,male,2019,2019,World Cup,Old Trafford,Manchester,Pakistan,India,Pakistan,field,India
+1144512,2019-06-23,ODI,male,2019,2019,World Cup,Lord's,London,Pakistan,South Africa,Pakistan,bat,Pakistan
+1144515,2019-06-26,ODI,male,2019,2019,World Cup,Edgbaston,Birmingham,Pakistan,New Zealand,New Zealand,bat,Pakistan
+1144525,2019-07-05,ODI,male,2019,2019,World Cup,Lord's,London,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+1152840,2019-05-05,T20,male,2019,2019,Pakistan tour of England,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,Pakistan,bat,England
+1152841,2019-05-08,ODI,male,2019,2019,Pakistan tour of England,The Oval,London,Pakistan,England,England,field,
+1152842,2019-05-11,ODI,male,2019,2019,Pakistan tour of England,"The Rose Bowl, Southampton",Southampton,Pakistan,England,Pakistan,field,England
+1152843,2019-05-14,ODI,male,2019,2019,Pakistan tour of England,"County Ground, Bristol",Bristol,Pakistan,England,England,field,England
+1152844,2019-05-17,ODI,male,2019,2019,Pakistan tour of England,Trent Bridge,Nottingham,Pakistan,England,England,field,England
+1152845,2019-05-19,ODI,male,2019,2019,Pakistan tour of England,Headingley,Leeds,Pakistan,England,England,bat,England
+1153244,2018-09-16,ODI,male,2018,2018,Asia Cup,Dubai International Cricket Stadium,,Pakistan,Hong Kong,Hong Kong,bat,Pakistan
+1153247,2018-09-19,ODI,male,2018,2018,Asia Cup,Dubai International Cricket Stadium,,Pakistan,India,Pakistan,bat,India
+1153251,2018-09-23,ODI,male,2018,2018,Asia Cup,Dubai International Cricket Stadium,,Pakistan,India,Pakistan,bat,India
+1153254,2018-09-26,ODI,male,2018,2018,Asia Cup,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Bangladesh,Bangladesh,bat,Bangladesh
+1157370,2018-10-07,Test,male,2018/19,2018,Australia tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,
+1157371,2018-10-16,Test,male,2018/19,2018,Australia tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Pakistan,bat,Pakistan
+1157372,2018-10-24,T20,male,2018/19,2018,Australia tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,field,Pakistan
+1157373,2018-10-26,T20,male,2018/19,2018,Australia tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Pakistan
+1157374,2018-10-28,T20,male,2018/19,2018,Australia tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Pakistan
+1157375,2018-10-31,T20,male,2018/19,2018,New Zealand tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1157376,2018-11-02,T20,male,2018/19,2018,New Zealand tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,New Zealand,New Zealand,bat,Pakistan
+1157377,2018-11-04,T20,male,2018/19,2018,New Zealand tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1157378,2018-11-07,ODI,male,2018/19,2018,New Zealand tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1157379,2018-11-09,ODI,male,2018/19,2018,New Zealand tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,Pakistan
+1157380,2018-11-11,ODI,male,2018/19,2018,New Zealand tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,
+1157381,2018-11-16,Test,male,2018/19,2018,New Zealand tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1157382,2018-11-24,Test,male,2018/19,2018,New Zealand tour of United Arab Emirates,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1157383,2018-12-03,Test,male,2018/19,2018,New Zealand tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1174238,2019-03-22,ODI,male,2018/19,2018,Australia tour of United Arab Emirates,Sharjah Cricket Stadium,Sharjah,Pakistan,Australia,Pakistan,bat,Australia
+1174239,2019-03-24,ODI,male,2018/19,2018,Australia tour of United Arab Emirates,Sharjah Cricket Stadium,Sharjah,Pakistan,Australia,Pakistan,bat,Australia
+1174240,2019-03-27,ODI,male,2018/19,2018,Australia tour of United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,bat,Australia
+1174241,2019-03-29,ODI,male,2018/19,2018,Australia tour of United Arab Emirates,Dubai International Cricket Stadium,Dubai,Pakistan,Australia,Pakistan,field,Australia
+1174242,2019-03-31,ODI,male,2018/19,2018,Australia tour of United Arab Emirates,Dubai International Cricket Stadium,Dubai,Pakistan,Australia,Pakistan,field,Australia
+1183527,2019-11-03,T20,male,2019/20,2019,Pakistan tour of Australia,Sydney Cricket Ground,Sydney,Pakistan,Australia,Australia,field,
+1183528,2019-11-05,T20,male,2019/20,2019,Pakistan tour of Australia,"Manuka Oval, Canberra",Canberra,Pakistan,Australia,Pakistan,bat,Australia
+1183529,2019-11-08,T20,male,2019/20,2019,Pakistan tour of Australia,Perth Stadium,Perth,Pakistan,Australia,Australia,field,Australia
+1183530,2019-11-21,Test,male,2019/20,2019,Pakistan in Australia Test Series,Brisbane Cricket Ground,Brisbane,Pakistan,Australia,Pakistan,bat,Australia
+1183531,2019-11-29,Test,male,2019/20,2019,Pakistan in Australia Test Series,Adelaide Oval,Adelaide,Pakistan,Australia,Australia,bat,Australia
+1198241,2020-08-05,Test,male,2020,2020,Pakistan tour of England,Old Trafford,Manchester,Pakistan,England,Pakistan,bat,England
+1198242,2020-08-13,Test,male,2020,2020,Pakistan tour of England,"The Rose Bowl, Southampton",Southampton,Pakistan,England,Pakistan,bat,
+1198243,2020-08-21,Test,male,2020,2020,Pakistan tour of England,"The Rose Bowl, Southampton",Southampton,Pakistan,England,England,bat,
+1198244,2020-08-28,T20,male,2020,2020,Pakistan tour of England,Old Trafford,Manchester,Pakistan,England,Pakistan,field,
+1198245,2020-08-30,T20,male,2020,2020,Pakistan tour of England,Old Trafford,Manchester,Pakistan,England,England,field,England
+1198246,2020-09-01,T20,male,2020,2020,Pakistan tour of England,Old Trafford,Manchester,Pakistan,England,England,field,Pakistan
+1198487,2019-09-30,ODI,male,2019/20,2019,Sri Lanka tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+1198488,2019-10-02,ODI,male,2019/20,2019,Sri Lanka tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1198489,2019-10-05,T20,male,2019/20,2019,Sri Lanka tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+1198490,2019-10-07,T20,male,2019/20,2019,Sri Lanka tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+1198491,2019-10-09,T20,male,2019/20,2019,Sri Lanka tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+1206635,2019-12-11,Test,male,2019/20,2019,Sri Lanka in Pakistan Test Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,bat,
+1206636,2019-12-19,Test,male,2019/20,2019,Sri Lanka in Pakistan Test Series,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+1213058,2020-01-24,T20,male,2019/20,2019,Bangladesh tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1213059,2020-01-25,T20,male,2019/20,2019,Bangladesh tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1213062,2020-02-07,Test,male,2019/20,2019,Bangladesh in Pakistan Test Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Bangladesh,Pakistan,field,Pakistan
+1233461,2020-10-30,ODI,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1233462,2020-11-01,ODI,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1233463,2020-11-03,ODI,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,
+1233464,2020-11-07,T20,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1233465,2020-11-08,T20,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+1233466,2020-11-10,T20,male,2020/21,2020,Zimbabwe tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1233959,2020-12-18,T20,male,2020/21,2020,Pakistan tour of New Zealand,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1233960,2020-12-20,T20,male,2020/21,2020,Pakistan tour of New Zealand,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1233961,2020-12-22,T20,male,2020/21,2020,Pakistan tour of New Zealand,"McLean Park, Napier",Napier,Pakistan,New Zealand,Pakistan,field,Pakistan
+1233962,2020-12-26,Test,male,2020/21,2020,Pakistan tour of New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,Pakistan,New Zealand,Pakistan,field,New Zealand
+1233963,2021-01-03,Test,male,2020/21,2020,Pakistan tour of New Zealand,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,field,New Zealand
+1239537,2021-07-08,ODI,male,2021,2021,Pakistan tour of England,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,England,field,England
+1239538,2021-07-10,ODI,male,2021,2021,Pakistan tour of England,Lord's,London,Pakistan,England,Pakistan,field,England
+1239539,2021-07-13,ODI,male,2021,2021,Pakistan tour of England,Edgbaston,Birmingham,Pakistan,England,England,field,England
+1239540,2021-07-16,T20,male,2021,2021,Pakistan tour of England,Trent Bridge,Nottingham,Pakistan,England,England,field,Pakistan
+1239541,2021-07-18,T20,male,2021,2021,Pakistan tour of England,Headingley,Leeds,Pakistan,England,Pakistan,field,England
+1239542,2021-07-20,T20,male,2021,2021,Pakistan tour of England,Old Trafford,Manchester,Pakistan,England,Pakistan,bat,England
+1243017,2021-01-26,Test,male,2020/21,2020,South Africa tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,South Africa,South Africa,bat,Pakistan
+1243018,2021-02-04,Test,male,2020/21,2020,South Africa tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,South Africa,Pakistan,bat,Pakistan
+1243019,2021-02-11,T20,male,2020/21,2020,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,field,Pakistan
+1243020,2021-02-13,T20,male,2020/21,2020,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,field,South Africa
+1243021,2021-02-14,T20,male,2020/21,2020,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,field,Pakistan
+1251572,2021-04-02,ODI,male,2021,2021,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,field,Pakistan
+1251573,2021-04-04,ODI,male,2021,2021,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,field,South Africa
+1251574,2021-04-07,ODI,male,2021,2021,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,field,Pakistan
+1251575,2021-04-10,T20,male,2021,2021,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,South Africa,bat,Pakistan
+1251576,2021-04-12,T20,male,2021,2021,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,bat,South Africa
+1251577,2021-04-14,T20,male,2021,2021,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,field,Pakistan
+1251578,2021-04-16,T20,male,2021,2021,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,field,Pakistan
+1257183,2021-04-21,T20,male,2021,2021,Pakistan tour of Zimbabwe,Harare Sports Club,Harare,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+1257184,2021-04-23,T20,male,2021,2021,Pakistan tour of Zimbabwe,Harare Sports Club,Harare,Pakistan,Zimbabwe,Pakistan,field,Zimbabwe
+1257185,2021-04-25,T20,male,2021,2021,Pakistan tour of Zimbabwe,Harare Sports Club,Harare,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1257186,2021-04-29,Test,male,2021,2021,Pakistan tour of Zimbabwe,Harare Sports Club,Harare,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1257187,2021-05-07,Test,male,2021,2021,Pakistan tour of Zimbabwe,Harare Sports Club,Harare,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1263164,2021-07-28,T20,male,2021,2021,Pakistan tour of West Indies,Kensington Oval,Bridgetown,Pakistan,West Indies,Pakistan,field,
+1263165,2021-07-31,T20,male,2021,2021,Pakistan tour of West Indies,"Providence Stadium, Guyana",Providence,Pakistan,West Indies,West Indies,field,Pakistan
+1263166,2021-08-01,T20,male,2021,2021,Pakistan tour of West Indies,"Providence Stadium, Guyana",Providence,Pakistan,West Indies,West Indies,bat,
+1263167,2021-08-03,T20,male,2021,2021,Pakistan tour of West Indies,"Providence Stadium, Guyana",Providence,Pakistan,West Indies,Pakistan,field,
+1263169,2021-08-12,Test,male,2021,2021,Pakistan tour of West Indies,Sabina Park,Kingston,Pakistan,West Indies,West Indies,field,West Indies
+1263170,2021-08-20,Test,male,2021,2021,Pakistan tour of West Indies,Sabina Park,Kingston,Pakistan,West Indies,West Indies,field,Pakistan
+1273727,2021-10-24,T20,male,2021/22,2021,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,Pakistan,field,Pakistan
+1273730,2021-10-26,T20,male,2021/22,2021,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,New Zealand,Pakistan,field,Pakistan
+1273742,2021-11-02,T20,male,2021/22,2021,ICC Men's T20 World Cup,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Namibia,Pakistan,bat,Pakistan
+1273752,2021-11-07,T20,male,2021/22,2021,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Scotland,Pakistan,bat,Pakistan
+1273755,2021-11-11,T20,male,2021/22,2021,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,Pakistan,Australia,Australia,field,Australia
+1277974,2021-11-19,T20,male,2021/22,2021,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1277975,2021-11-20,T20,male,2021/22,2021,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1277976,2021-11-22,T20,male,2021/22,2021,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1277977,2021-11-26,Test,male,2021/22,2021,Pakistan tour of Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1277978,2021-12-04,Test,male,2021/22,2021,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+1287773,2021-12-13,T20,male,2021/22,2021,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,West Indies,field,Pakistan
+1287774,2021-12-14,T20,male,2021/22,2021,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,Pakistan,bat,Pakistan
+1287775,2021-12-16,T20,male,2021/22,2021,West Indies tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,West Indies,West Indies,bat,Pakistan
+1288310,2022-03-04,Test,male,2021/22,2021,Australia tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Australia,Pakistan,bat,
+1288311,2022-03-12,Test,male,2021/22,2021,Australia tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,Australia,Australia,bat,
+1288312,2022-03-21,Test,male,2021/22,2021,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Australia,bat,Australia
+1288313,2022-03-29,ODI,male,2021/22,2021,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,field,Australia
+1288314,2022-03-31,ODI,male,2021/22,2021,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,field,Pakistan
+1288315,2022-04-02,ODI,male,2021/22,2021,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,field,Pakistan
+1288316,2022-04-05,T20,male,2021/22,2021,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Australia,field,Australia
+1298150,2022-10-23,T20,male,2022/23,2022,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,Pakistan,India,India,field,India
+1298158,2022-10-27,T20,male,2022/23,2022,ICC Men's T20 World Cup,Perth Stadium,Perth,Pakistan,Zimbabwe,Zimbabwe,bat,Zimbabwe
+1298163,2022-10-30,T20,male,2022/23,2022,ICC Men's T20 World Cup,Perth Stadium,Perth,Pakistan,Netherlands,Netherlands,bat,Pakistan
+1298170,2022-11-03,T20,male,2022/23,2022,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,Pakistan,South Africa,Pakistan,bat,Pakistan
+1298175,2022-11-06,T20,male,2022/23,2022,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1298177,2022-11-09,T20,male,2022/23,2022,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,Pakistan,New Zealand,New Zealand,bat,Pakistan
+1298179,2022-11-13,T20,male,2022/23,2022,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,Pakistan,England,England,field,England
+1311737,2022-08-16,ODI,male,2022,2022,Pakistan tour of Netherlands,"Hazelaarweg, Rotterdam",Rotterdam,Pakistan,Netherlands,Pakistan,bat,Pakistan
+1311738,2022-08-18,ODI,male,2022,2022,Pakistan tour of Netherlands,"Hazelaarweg, Rotterdam",Rotterdam,Pakistan,Netherlands,Netherlands,bat,Pakistan
+1311739,2022-08-21,ODI,male,2022,2022,Pakistan tour of Netherlands,"Hazelaarweg, Rotterdam",Rotterdam,Pakistan,Netherlands,Pakistan,bat,Pakistan
+1315038,2022-06-08,ODI,male,2022,2022,West Indies tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,West Indies,West Indies,bat,Pakistan
+1315039,2022-06-10,ODI,male,2022,2022,West Indies tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,West Indies,Pakistan,bat,Pakistan
+1315040,2022-06-12,ODI,male,2022,2022,West Indies tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,West Indies,Pakistan,bat,Pakistan
+1320953,2022-07-16,Test,male,2022,2022,Pakistan tour of Sri Lanka,Galle International Stadium,Galle,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1320954,2022-07-24,Test,male,2022,2022,Pakistan tour of Sri Lanka,Galle International Stadium,Galle,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+1322334,2022-10-07,T20,male,2022/23,2022,New Zealand T20I Tri-Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+1322335,2022-10-08,T20,male,2022/23,2022,New Zealand T20I Tri-Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,bat,Pakistan
+1322337,2022-10-11,T20,male,2022/23,2022,New Zealand T20I Tri-Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1322339,2022-10-13,T20,male,2022/23,2022,New Zealand T20I Tri-Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1322340,2022-10-14,T20,male,2022/23,2022,New Zealand T20I Tri-Series,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,Pakistan,field,Pakistan
+1327228,2022-09-20,T20,male,2022,2022,England tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,England,England,field,England
+1327229,2022-09-22,T20,male,2022,2022,England tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,England,England,bat,Pakistan
+1327230,2022-09-23,T20,male,2022,2022,England tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,England,Pakistan,field,England
+1327231,2022-09-25,T20,male,2022,2022,England tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,England,England,field,Pakistan
+1327232,2022-09-28,T20,male,2022,2022,England tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,England,England,field,Pakistan
+1327233,2022-09-30,T20,male,2022,2022,England tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,England,England,field,England
+1327234,2022-10-02,T20,male,2022,2022,England tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,England,Pakistan,field,England
+1327270,2022-08-28,T20,male,2022,2022,Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,India,field,India
+1327274,2022-09-02,T20,male,2022,2022,Asia Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Hong Kong,Hong Kong,field,Pakistan
+1327276,2022-09-04,T20,male,2022,2022,Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,Pakistan,field,Pakistan
+1327280,2022-09-09,T20,male,2022,2022,Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+1327281,2022-09-11,T20,male,2022,2022,Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+1330871,2022-12-01,Test,male,2022/23,2022,England tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,England,England,bat,England
+1330872,2022-12-09,Test,male,2022/23,2022,England tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,England,England,bat,England
+1330873,2022-12-17,Test,male,2022/23,2022,England tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,England,Pakistan,bat,England
+1339609,2022-12-26,Test,male,2022/23,2022,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,Pakistan,bat,
+1339610,2023-01-02,Test,male,2022/23,2022,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,New Zealand,bat,
+1339611,2023-01-09,ODI,male,2022/23,2022,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,Pakistan,field,Pakistan
+1339612,2023-01-11,ODI,male,2022/23,2022,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1339613,2023-01-13,ODI,male,2022/23,2022,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1339614,2023-04-14,T20,male,2023,2023,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1339615,2023-04-15,T20,male,2023,2023,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1339616,2023-04-17,T20,male,2023,2023,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1339617,2023-04-20,T20,male,2023,2023,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,Pakistan,field,
+1339618,2023-04-24,T20,male,2023,2023,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,New Zealand,field,New Zealand
+1339619,2023-04-27,ODI,male,2023,2023,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,Pakistan,field,Pakistan
+1339620,2023-04-29,ODI,male,2023,2023,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,Pakistan,field,Pakistan
+1339621,2023-05-03,ODI,male,2023,2023,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,New Zealand,field,Pakistan
+1339622,2023-05-05,ODI,male,2023,2023,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,New Zealand,field,Pakistan
+1339623,2023-05-07,ODI,male,2023,2023,New Zealand tour of Pakistan,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1375842,2023-12-14,Test,male,2023/24,2023,Pakistan tour of Australia,Perth Stadium,Perth,Pakistan,Australia,Australia,bat,Australia
+1375843,2023-12-26,Test,male,2023/24,2023,Pakistan tour of Australia,Melbourne Cricket Ground,Melbourne,Pakistan,Australia,Pakistan,field,Australia
+1375844,2024-01-03,Test,male,2023/24,2023,Pakistan tour of Australia,Sydney Cricket Ground,Sydney,Pakistan,Australia,Pakistan,bat,Australia
+1384393,2023-10-06,ODI,male,2023/24,2023,ICC Cricket World Cup,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Pakistan,Netherlands,Netherlands,field,Pakistan
+1384399,2023-10-10,ODI,male,2023/24,2023,ICC Cricket World Cup,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1384403,2023-10-14,ODI,male,2023/24,2023,ICC Cricket World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Pakistan,India,India,field,India
+1384409,2023-10-20,ODI,male,2023/24,2023,ICC Cricket World Cup,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Pakistan,Australia,Pakistan,field,Australia
+1384417,2023-10-27,ODI,male,2023/24,2023,ICC Cricket World Cup,MA Chidambaram Stadium,Chennai,Pakistan,South Africa,Pakistan,bat,South Africa
+1384422,2023-10-31,ODI,male,2023/24,2023,ICC Cricket World Cup,"Eden Gardens, Kolkata",Kolkata,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1384426,2023-11-04,ODI,male,2023/24,2023,ICC Cricket World Cup,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Pakistan,New Zealand,Pakistan,field,Pakistan
+1384435,2023-11-11,ODI,male,2023/24,2023,ICC Cricket World Cup,"Eden Gardens, Kolkata",Kolkata,Pakistan,England,England,bat,England
+1385685,2023-07-16,Test,male,2023,2023,Pakistan tour of Sri Lanka,Galle International Stadium,Galle,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1385686,2023-07-24,Test,male,2023,2023,Pakistan tour of Sri Lanka,Sinhalese Sports Club Ground,Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1385688,2024-05-25,T20,male,2024,2024,Pakistan tour of England,Edgbaston,Birmingham,Pakistan,England,Pakistan,field,England
+1385690,2024-05-30,T20,male,2024,2024,Pakistan tour of England,The Oval,London,Pakistan,England,England,field,England
+1388216,2024-01-12,T20,male,2023/24,2023,Pakistan tour of New Zealand,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,field,New Zealand
+1388217,2024-01-14,T20,male,2023/24,2023,Pakistan tour of New Zealand,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,field,New Zealand
+1388218,2024-01-17,T20,male,2023/24,2023,Pakistan tour of New Zealand,"University Oval, Dunedin",Dunedin,Pakistan,New Zealand,Pakistan,field,New Zealand
+1388219,2024-01-19,T20,male,2023/24,2023,Pakistan tour of New Zealand,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,field,New Zealand
+1388220,2024-01-21,T20,male,2023/24,2023,Pakistan tour of New Zealand,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,Pakistan,bat,Pakistan
+1388392,2023-08-30,ODI,male,2023,2023,Asia Cup,Multan Cricket Stadium,Multan,Pakistan,Nepal,Pakistan,bat,Pakistan
+1388394,2023-09-02,ODI,male,2023,2023,Asia Cup,Pallekele International Cricket Stadium,Kandy,Pakistan,India,India,bat,
+1388401,2023-09-06,ODI,male,2023,2023,Asia Cup,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+1388406,2023-09-10,ODI,male,2023,2023,Asia Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,India,Pakistan,field,India
+1388410,2023-09-14,ODI,male,2023,2023,Asia Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+1399114,2023-10-03,T20,male,2023,2023,Asian Games Men's Cricket Competition,Zhejiang University of Technology Cricket Field,Hangzhou,Pakistan,Hong Kong,Hong Kong,field,Pakistan
+1399119,2023-10-07,T20,male,2023,2023,Asian Games Men's Cricket Competition,Zhejiang University of Technology Cricket Field,Hangzhou,Pakistan,Bangladesh,Bangladesh,field,Bangladesh
+1415711,2024-06-06,T20,male,2024,2024,ICC Men's T20 World Cup,"Grand Prairie Stadium, Dallas",Dallas,Pakistan,United States of America,United States of America,field,
+1415719,2024-06-09,T20,male,2024,2024,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,Pakistan,India,Pakistan,field,India
+1415722,2024-06-11,T20,male,2024,2024,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,Pakistan,Canada,Pakistan,field,Pakistan
+1415736,2024-06-16,T20,male,2024,2024,ICC Men's T20 World Cup,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan,Ireland,Pakistan,field,Pakistan
+1424829,2024-04-18,T20,male,2024,2024,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,New Zealand,bat,
+1424830,2024-04-20,T20,male,2024,2024,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,Pakistan,field,Pakistan
+1424831,2024-04-21,T20,male,2024,2024,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,New Zealand,field,New Zealand
+1424832,2024-04-25,T20,male,2024,2024,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,Pakistan,field,New Zealand
+1424833,2024-04-27,T20,male,2024,2024,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,New Zealand,field,Pakistan
+1426549,2024-11-04,ODI,male,2024/25,2024,Pakistan tour of Australia,Melbourne Cricket Ground,Melbourne,Pakistan,Australia,Australia,field,Australia
+1426550,2024-11-08,ODI,male,2024/25,2024,Pakistan tour of Australia,Adelaide Oval,Adelaide,Pakistan,Australia,Pakistan,field,Pakistan
+1426551,2024-11-10,ODI,male,2024/25,2024,Pakistan tour of Australia,Perth Stadium,Perth,Pakistan,Australia,Pakistan,field,Pakistan
+1426552,2024-11-14,T20,male,2024/25,2024,Pakistan tour of Australia,Brisbane Cricket Ground,Brisbane,Pakistan,Australia,Pakistan,field,Australia
+1426553,2024-11-16,T20,male,2024/25,2024,Pakistan tour of Australia,Sydney Cricket Ground,Sydney,Pakistan,Australia,Australia,bat,Australia
+1426554,2024-11-18,T20,male,2024/25,2024,Pakistan tour of Australia,"Bellerive Oval, Hobart",Hobart,Pakistan,Australia,Pakistan,bat,Australia
+1426830,2024-05-10,T20,male,2024,2024,Pakistan tour of Ireland,"Clontarf Cricket Club Ground, Dublin",Dublin,Pakistan,Ireland,Ireland,field,Ireland
+1426831,2024-05-12,T20,male,2024,2024,Pakistan tour of Ireland,"Clontarf Cricket Club Ground, Dublin",Dublin,Pakistan,Ireland,Pakistan,field,Pakistan
+1426832,2024-05-14,T20,male,2024,2024,Pakistan tour of Ireland,"Clontarf Cricket Club Ground, Dublin",Dublin,Pakistan,Ireland,Pakistan,field,Pakistan
+1432211,2024-12-10,T20,male,2024/25,2024,Pakistan tour of South Africa,"Kingsmead, Durban",Durban,Pakistan,South Africa,South Africa,bat,South Africa
+1432212,2024-12-13,T20,male,2024/25,2024,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,bat,South Africa
+1432214,2024-12-17,ODI,male,2024/25,2024,Pakistan tour of South Africa,"Boland Park, Paarl",Paarl,Pakistan,South Africa,South Africa,bat,Pakistan
+1432215,2024-12-19,ODI,male,2024/25,2024,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,Pakistan
+1432216,2024-12-22,ODI,male,2024/25,2024,Pakistan tour of South Africa,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,South Africa,field,Pakistan
+1432217,2024-12-26,Test,male,2024/25,2024,Pakistan tour of South Africa,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,field,South Africa
+1432218,2025-01-03,Test,male,2024/25,2024,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,bat,South Africa
+1442213,2024-08-21,Test,male,2024,2024,Bangladesh tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Bangladesh,Bangladesh,field,Bangladesh
+1442214,2024-08-30,Test,male,2024,2024,Bangladesh tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Bangladesh,Bangladesh,field,Bangladesh
+1442215,2024-10-07,Test,male,2024/25,2024,England tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,England,Pakistan,bat,England
+1442216,2024-10-15,Test,male,2024/25,2024,England tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,England,Pakistan,bat,Pakistan
+1442217,2024-10-24,Test,male,2024/25,2024,England tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,England,England,bat,Pakistan
+1442218,2025-01-17,Test,male,2024/25,2024,West Indies tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,West Indies,Pakistan,bat,Pakistan
+1442219,2025-01-25,Test,male,2024/25,2024,West Indies tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,West Indies,West Indies,bat,West Indies
+1442220,2025-02-08,ODI,male,2024/25,2024,Pakistan Tri-Nation Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,New Zealand,bat,New Zealand
+1442222,2025-02-12,ODI,male,2024/25,2024,Pakistan Tri-Nation Series,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,South Africa,South Africa,bat,Pakistan
+1442223,2025-02-14,ODI,male,2024/25,2024,Pakistan Tri-Nation Series,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,Pakistan,bat,New Zealand
+1443549,2025-03-16,T20,male,2024/25,2024,Pakistan tour of New Zealand,"Hagley Oval, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,field,New Zealand
+1443550,2025-03-18,T20,male,2024/25,2024,Pakistan tour of New Zealand,"University Oval, Dunedin",Dunedin,Pakistan,New Zealand,New Zealand,field,New Zealand
+1443551,2025-03-21,T20,male,2024/25,2024,Pakistan tour of New Zealand,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,field,Pakistan
+1443552,2025-03-23,T20,male,2024/25,2024,Pakistan tour of New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,Pakistan,New Zealand,Pakistan,field,New Zealand
+1443553,2025-03-26,T20,male,2024/25,2024,Pakistan tour of New Zealand,"Sky Stadium, Wellington",Wellington,Pakistan,New Zealand,New Zealand,field,New Zealand
+1443554,2025-03-29,ODI,male,2024/25,2024,Pakistan tour of New Zealand,"McLean Park, Napier",Napier,Pakistan,New Zealand,Pakistan,field,New Zealand
+1443555,2025-04-02,ODI,male,2024/25,2024,Pakistan tour of New Zealand,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,field,New Zealand
+1443556,2025-04-05,ODI,male,2024/25,2024,Pakistan tour of New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,Pakistan,New Zealand,Pakistan,field,New Zealand
+1444649,2024-11-24,ODI,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,field,Zimbabwe
+1444650,2024-11-26,ODI,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1444651,2024-11-28,ODI,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1444652,2024-12-01,T20,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1444653,2024-12-03,T20,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+1444654,2024-12-05,T20,male,2024/25,2024,Pakistan tour of Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Zimbabwe
+1466414,2025-02-19,ODI,male,2024/25,2024,ICC Champions Trophy,"National Bank Cricket Arena, Karachi",Karachi,Pakistan,New Zealand,Pakistan,field,New Zealand
+1466418,2025-02-23,ODI,male,2024/25,2024,ICC Champions Trophy,Dubai International Cricket Stadium,Dubai,Pakistan,India,Pakistan,bat,India
+1472525,2025-07-31,T20,male,2025,2025,Pakistan tour of West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan,West Indies,West Indies,field,Pakistan
+1472526,2025-08-02,T20,male,2025,2025,Pakistan tour of West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan,West Indies,Pakistan,bat,West Indies
+1472527,2025-08-03,T20,male,2025,2025,Pakistan tour of West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan,West Indies,Pakistan,bat,Pakistan
+1472528,2025-08-08,ODI,male,2025,2025,Pakistan tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Pakistan,West Indies,Pakistan,field,Pakistan
+1472529,2025-08-10,ODI,male,2025,2025,Pakistan tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Pakistan,West Indies,West Indies,field,West Indies
+1472530,2025-08-12,ODI,male,2025,2025,Pakistan tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Pakistan,West Indies,Pakistan,field,West Indies
+1483785,2025-05-28,T20,male,2025,2025,Bangladesh tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+1483786,2025-05-30,T20,male,2025,2025,Bangladesh tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+1483787,2025-06-01,T20,male,2025,2025,Bangladesh tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Pakistan,field,Pakistan
+1491903,2025-07-20,T20,male,2025,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,field,Bangladesh
+1491904,2025-07-22,T20,male,2025,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Pakistan,field,Bangladesh
+1491905,2025-07-24,T20,male,2025,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+1496582,2026-08-19,Test,male,2026,2026,Pakistan tour of England,Headingley,Leeds,Pakistan,England,England,field,England
+1496583,2026-08-27,Test,male,2026,2026,Pakistan tour of England,Lord's,London,Pakistan,England,Pakistan,field,England
+1496584,2026-09-09,Test,male,2026,2026,Pakistan tour of England,Edgbaston,Birmingham,Pakistan,England,England,field,England
+1496923,2025-09-12,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,Oman,Pakistan,bat,Pakistan
+1496925,2025-09-14,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,Pakistan,bat,India
+1496929,2025-09-17,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,United Arab Emirates,United Arab Emirates,field,Pakistan
+1496933,2025-09-21,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,India,field,India
+1496934,2025-09-23,T20,male,2025,2025,Men's T20 Asia Cup,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1496936,2025-09-25,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+1496938,2025-09-28,T20,male,2025,2025,Men's T20 Asia Cup,Dubai International Cricket Stadium,Dubai,Pakistan,India,India,field,India
+1497874,2025-08-30,T20,male,2025,2025,United Arab Emirates T20I Tri-Series,Sharjah Cricket Stadium,Sharjah,Pakistan,United Arab Emirates,Pakistan,bat,Pakistan
+1497877,2025-09-04,T20,male,2025,2025,United Arab Emirates T20I Tri-Series,Sharjah Cricket Stadium,Sharjah,Pakistan,United Arab Emirates,Pakistan,bat,Pakistan
+1501893,2025-10-12,Test,male,2025/26,2025,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,bat,Pakistan
+1501894,2025-10-20,Test,male,2025/26,2025,South Africa tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,South Africa,Pakistan,bat,South Africa
+1501895,2025-10-28,T20,male,2025/26,2025,South Africa tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,South Africa,Pakistan,field,South Africa
+1501896,2025-10-31,T20,male,2025/26,2025,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,field,Pakistan
+1501897,2025-11-01,T20,male,2025/26,2025,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,field,Pakistan
+1501898,2025-11-04,ODI,male,2025/26,2025,South Africa tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,Pakistan,field,Pakistan
+1501899,2025-11-06,ODI,male,2025/26,2025,South Africa tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,Pakistan,bat,South Africa
+1501900,2025-11-08,ODI,male,2025/26,2025,South Africa tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,South Africa,bat,Pakistan
+1502048,2025-11-18,T20,male,2025/26,2025,Pakistan T20I Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+1502050,2025-11-22,T20,male,2025/26,2025,Pakistan T20I Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+1502051,2025-11-23,T20,male,2025/26,2025,Pakistan T20I Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+1502053,2025-11-27,T20,male,2025/26,2025,Pakistan T20I Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+1502054,2025-11-29,T20,male,2025/26,2025,Pakistan T20I Tri-Series,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1502167,2025-11-11,ODI,male,2025/26,2025,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1502168,2025-11-14,ODI,male,2025/26,2025,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1502169,2025-11-16,ODI,male,2025/26,2025,Sri Lanka tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1512719,2026-02-07,T20,male,2025/26,2025,ICC Men's T20 World Cup,Sinhalese Sports Club Ground,Colombo,Pakistan,Netherlands,Pakistan,field,Pakistan
+1512730,2026-02-10,T20,male,2025/26,2025,ICC Men's T20 World Cup,Sinhalese Sports Club Ground,Colombo,Pakistan,United States of America,United States of America,field,Pakistan
+1512745,2026-02-15,T20,male,2025/26,2025,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,India,Pakistan,field,India
+1512753,2026-02-18,T20,male,2025/26,2025,ICC Men's T20 World Cup,Sinhalese Sports Club Ground,Colombo,Pakistan,Namibia,Pakistan,bat,Pakistan
+1512763,2026-02-24,T20,male,2025/26,2025,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,Pakistan,England,Pakistan,bat,England
+1512768,2026-02-28,T20,male,2025/26,2025,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+1514480,2026-01-07,T20,male,2025/26,2025,Pakistan tour of Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+1514482,2026-01-11,T20,male,2025/26,2025,Pakistan tour of Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+1519636,2026-01-29,T20,male,2025/26,2025,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,bat,Pakistan
+1519637,2026-01-31,T20,male,2025/26,2025,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,bat,Pakistan
+1519638,2026-02-01,T20,male,2025/26,2025,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,bat,Pakistan
+1525652,2026-03-11,ODI,male,2025/26,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,field,Bangladesh
+1525653,2026-03-13,ODI,male,2025/26,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+1525654,2026-03-15,ODI,male,2025/26,2025,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Pakistan,field,Bangladesh
+1532486,2026-05-08,Test,male,2026,2026,Pakistan tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,Bangladesh,Pakistan,field,Bangladesh
+1532487,2026-05-16,Test,male,2026,2026,Pakistan tour of Bangladesh,Sylhet International Cricket Stadium,Sylhet,Pakistan,Bangladesh,Pakistan,field,Bangladesh
+1535645,2026-05-30,ODI,male,2026,2026,Australia tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Australia,Pakistan,field,Pakistan
+1535646,2026-06-02,ODI,male,2026,2026,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Pakistan,field,Australia
+1535647,2026-06-04,ODI,male,2026,2026,Australia tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Australia,Australia,bat,Pakistan
+1538630,2026-07-25,Test,male,2026,2026,Pakistan tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Pakistan,West Indies,West Indies,bat,West Indies
+1538631,2026-08-02,Test,male,2026,2026,Pakistan tour of West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Pakistan,West Indies,West Indies,bat,Pakistan
+209582,2005-05-18,ODI,male,2005,2005,Pakistan tour of West Indies,"Arnos Vale Ground, Kingstown",St Vincent,Pakistan,West Indies,West Indies,field,Pakistan
+209768,2005-05-22,ODI,male,2005,2005,Pakistan tour of West Indies,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,West Indies,field,Pakistan
+225245,2006-08-30,ODI,male,2006,2006,NatWest Series,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,Pakistan,field,
+225246,2006-09-02,ODI,male,2006,2006,NatWest Series,Lord's,London,Pakistan,England,Pakistan,field,Pakistan
+225247,2006-09-05,ODI,male,2006,2006,NatWest Series,"The Rose Bowl, Southampton",Southampton,Pakistan,England,Pakistan,field,Pakistan
+225248,2006-09-08,ODI,male,2006,2006,NatWest Series,Trent Bridge,Nottingham,Pakistan,England,Pakistan,bat,England
+225249,2006-09-10,ODI,male,2006,2006,NatWest Series,Edgbaston,Birmingham,Pakistan,England,England,field,England
+225255,2006-07-13,Test,male,2006,2006,Pakistan tour of England and Scotland,Lord's,London,Pakistan,England,England,bat,
+225256,2006-07-27,Test,male,2006,2006,Pakistan tour of England and Scotland,Old Trafford,Manchester,Pakistan,England,Pakistan,bat,England
+225257,2006-08-04,Test,male,2006,2006,Pakistan tour of England and Scotland,Headingley,Leeds,Pakistan,England,England,bat,England
+225258,2006-08-17,Test,male,2006,2006,Pakistan tour of England and Scotland,The Oval,London,Pakistan,England,Pakistan,field,England
+225263,2006-08-28,T20,male,2006,2006,,"County Ground, Bristol",Bristol,Pakistan,England,England,bat,Pakistan
+225443,2005-11-12,Test,male,2005/06,2005,England tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,England,Pakistan,bat,Pakistan
+226350,2005-11-20,Test,male,2005/06,2005,England tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,England,Pakistan,bat,
+226352,2005-12-10,ODI,male,2005/06,2005,England tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,England,England,bat,England
+226354,2005-12-15,ODI,male,2005/06,2005,England tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,England,England,field,Pakistan
+226356,2005-12-21,ODI,male,2005/06,2005,England tour of Pakistan,Rawalpindi Cricket Stadium,,Pakistan,England,England,bat,England
+233797,2006-01-21,Test,male,2005/06,2005,India tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,India,Pakistan,bat,
+234783,2006-01-29,Test,male,2005/06,2005,India tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,India,India,field,Pakistan
+235831,2006-02-06,ODI,male,2005/06,2005,India in Pakistan ODI Series,"Arbab Niaz Stadium, Peshawar",Peshawar,Pakistan,India,Pakistan,field,Pakistan
+236520,2006-02-11,ODI,male,2005/06,2005,India in Pakistan ODI Series,Rawalpindi Cricket Stadium,,Pakistan,India,Pakistan,bat,India
+236809,2006-02-13,ODI,male,2005/06,2005,India in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,India,India,field,India
+237222,2006-02-16,ODI,male,2005/06,2005,India in Pakistan ODI Series,Multan Cricket Stadium,,Pakistan,India,India,field,India
+237571,2006-02-19,ODI,male,2005/06,2005,India in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,India,India,field,India
+238213,2006-03-17,ODI,male,2005/06,2005,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Sri Lanka,field,
+238214,2006-03-19,ODI,male,2005/06,2005,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+238215,2006-03-22,ODI,male,2005/06,2005,Pakistan in Sri Lanka ODI Series,Sinhalese Sports Club Ground,Colombo,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+238217,2006-04-03,Test,male,2005/06,2005,Pakistan tour of Sri Lanka,"Asgiriya Stadium, Kandy",Kandy,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+244510,2006-04-18,ODI,male,2005/06,2005,DLF Cup,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,India,India,bat,Pakistan
+244511,2006-04-19,ODI,male,2005/06,2005,DLF Cup,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,India,India,bat,India
+247457,2007-03-13,ODI,male,2006/07,2006,ICC World Cup,Sabina Park,Jamaica,Pakistan,West Indies,Pakistan,field,West Indies
+247465,2007-03-17,ODI,male,2006/07,2006,ICC World Cup,Sabina Park,Jamaica,Pakistan,Ireland,Ireland,field,Ireland
+247473,2007-03-21,ODI,male,2006/07,2006,ICC World Cup,Sabina Park,Jamaica,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+249747,2006-10-17,ODI,male,2006/07,2006,ICC Champions Trophy,"Sawai Mansingh Stadium, Jaipur",Jaipur,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+249752,2006-10-25,ODI,male,2006/07,2006,ICC Champions Trophy,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,New Zealand,Pakistan,field,New Zealand
+249754,2006-10-27,ODI,male,2006/07,2006,ICC Champions Trophy,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,South Africa,South Africa,bat,South Africa
+250666,2007-01-19,Test,male,2006/07,2006,Pakistan tour of South Africa,"St George's Park, Port Elizabeth",Port Elizabeth,Pakistan,South Africa,South Africa,bat,Pakistan
+250667,2007-01-26,Test,male,2006/07,2006,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,South Africa
+250668,2007-02-04,ODI,male,2006/07,2006,Pakistan in South Africa ODI Series,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,field,South Africa
+250669,2007-02-07,ODI,male,2006/07,2006,Pakistan in South Africa ODI Series,"Kingsmead, Durban",Durban,Pakistan,South Africa,Pakistan,bat,Pakistan
+250670,2007-02-09,ODI,male,2006/07,2006,Pakistan in South Africa ODI Series,"St George's Park, Port Elizabeth",Port Elizabeth,Pakistan,South Africa,Pakistan,bat,
+250671,2007-02-11,ODI,male,2006/07,2006,Pakistan in South Africa ODI Series,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,South Africa
+250672,2007-02-14,ODI,male,2006/07,2006,Pakistan in South Africa ODI Series,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,bat,South Africa
+257765,2006-11-11,Test,male,2006/07,2006,West Indies tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,West Indies,West Indies,bat,Pakistan
+257766,2006-11-19,Test,male,2006/07,2006,West Indies tour of Pakistan,Multan Cricket Stadium,,Pakistan,West Indies,Pakistan,bat,
+257769,2006-12-07,ODI,male,2006/07,2006,West Indies in Pakistan ODI Series,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,West Indies,Pakistan,field,Pakistan
+257770,2006-12-10,ODI,male,2006/07,2006,West Indies in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,West Indies,Pakistan,field,Pakistan
+257771,2006-12-13,ODI,male,2006/07,2006,West Indies in Pakistan ODI Series,Multan Cricket Stadium,,Pakistan,West Indies,Pakistan,bat,West Indies
+257772,2006-12-16,ODI,male,2006/07,2006,West Indies in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,West Indies,Pakistan,field,Pakistan
+287855,2007-09-12,T20,male,2007/08,2007,ICC World Twenty20,"Kingsmead, Durban",Durban,Pakistan,Scotland,Scotland,field,Pakistan
+287862,2007-09-14,T20,male,2007/08,2007,ICC World Twenty20,"Kingsmead, Durban",Durban,Pakistan,India,Pakistan,field,
+287868,2007-09-17,T20,male,2007/08,2007,ICC World Twenty20,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+287870,2007-09-18,T20,male,2007/08,2007,ICC World Twenty20,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,Australia,Pakistan,field,Pakistan
+287875,2007-09-20,T20,male,2007/08,2007,ICC World Twenty20,"Newlands, Cape Town",Cape Town,Pakistan,Bangladesh,Pakistan,field,Pakistan
+287877,2007-09-22,T20,male,2007/08,2007,ICC World Twenty20,"Newlands, Cape Town",Cape Town,Pakistan,New Zealand,New Zealand,bat,Pakistan
+287879,2007-09-24,T20,male,2007/08,2007,ICC World Twenty20,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,India,India,bat,India
+297801,2007-11-05,ODI,male,2007/08,2007,Pakistan in India ODI Series,"Nehru Stadium, Guwahati",Guwahati,Pakistan,India,Pakistan,bat,India
+297802,2007-11-08,ODI,male,2007/08,2007,Pakistan in India ODI Series,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,India,India,bat,Pakistan
+297803,2007-11-11,ODI,male,2007/08,2007,Pakistan in India ODI Series,"Green Park, Kanpur",Kanpur,Pakistan,India,Pakistan,field,India
+297804,2007-11-15,ODI,male,2007/08,2007,Pakistan in India ODI Series,"Captain Roop Singh Stadium, Gwalior",Gwalior,Pakistan,India,Pakistan,bat,India
+297805,2007-11-18,ODI,male,2007/08,2007,Pakistan in India ODI Series,"Sawai Mansingh Stadium, Jaipur",Jaipur,Pakistan,India,India,field,Pakistan
+297806,2007-11-22,Test,male,2007/08,2007,Pakistan tour of India,"Feroz Shah Kotla, Delhi",Delhi,Pakistan,India,Pakistan,bat,India
+297807,2007-11-30,Test,male,2007/08,2007,Pakistan tour of India,"Eden Gardens, Kolkata",Kolkata,Pakistan,India,India,bat,
+297808,2007-12-08,Test,male,2007/08,2007,Pakistan tour of India,"M Chinnaswamy Stadium, Bangalore",Bengaluru,Pakistan,India,India,bat,
+299004,2007-10-01,Test,male,2007/08,2007,South Africa tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,South Africa,South Africa,bat,South Africa
+299005,2007-10-08,Test,male,2007/08,2007,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,bat,
+299006,2007-10-18,ODI,male,2007/08,2007,South Africa in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,bat,South Africa
+299007,2007-10-20,ODI,male,2007/08,2007,South Africa in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,bat,Pakistan
+299008,2007-10-23,ODI,male,2007/08,2007,South Africa in Pakistan ODI Series,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,South Africa,bat,Pakistan
+299009,2007-10-26,ODI,male,2007/08,2007,South Africa in Pakistan ODI Series,Multan Cricket Stadium,,Pakistan,South Africa,Pakistan,bat,South Africa
+299010,2007-10-29,ODI,male,2007/08,2007,South Africa in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,bat,South Africa
+306989,2007-09-02,T20,male,2007/08,2007,Twenty20 Quadrangular (in Kenya),"Gymkhana Club Ground, Nairobi",Nairobi,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+306991,2007-09-04,T20,male,2007/08,2007,Twenty20 Quadrangular (in Kenya),"Gymkhana Club Ground, Nairobi",Nairobi,Pakistan,Kenya,Kenya,bat,Pakistan
+325800,2008-01-21,ODI,male,2007/08,2007,Zimbabwe in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+325801,2008-01-24,ODI,male,2007/08,2007,Zimbabwe in Pakistan ODI Series,"Niaz Stadium, Hyderabad, Sind",Sind,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+325802,2008-01-27,ODI,male,2007/08,2007,Zimbabwe in Pakistan ODI Series,Multan Cricket Stadium,,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+325803,2008-01-30,ODI,male,2007/08,2007,Zimbabwe in Pakistan ODI Series,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+325804,2008-02-02,ODI,male,2007/08,2007,Zimbabwe in Pakistan ODI Series,Sheikhupura Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+335347,2008-06-24,ODI,male,2008,2008,Asia Cup,"National Stadium, Karachi",Karachi,Pakistan,Hong Kong,Pakistan,bat,Pakistan
+335351,2008-06-26,ODI,male,2008,2008,Asia Cup,"National Stadium, Karachi",Karachi,Pakistan,India,Pakistan,bat,India
+335353,2008-06-29,ODI,male,2008,2008,Asia Cup,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+335355,2008-07-02,ODI,male,2008,2008,Asia Cup,"National Stadium, Karachi",Karachi,Pakistan,India,India,bat,Pakistan
+335357,2008-07-04,ODI,male,2008,2008,Asia Cup,"National Stadium, Karachi",Karachi,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+343759,2008-04-08,ODI,male,2007/08,2007,Bangladesh in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+343760,2008-04-11,ODI,male,2007/08,2007,Bangladesh in Pakistan ODI Series,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+343761,2008-04-13,ODI,male,2007/08,2007,Bangladesh in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+343762,2008-04-16,ODI,male,2007/08,2007,Bangladesh in Pakistan ODI Series,Multan Cricket Stadium,,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+343763,2008-04-19,ODI,male,2007/08,2007,Bangladesh in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+343764,2008-04-20,T20,male,2007/08,2007,,"National Stadium, Karachi",Karachi,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+345468,2008-06-08,ODI,male,2008,2008,Kitply Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+345469,2008-06-10,ODI,male,2008,2008,Kitply Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,India,bat,India
+345471,2008-06-14,ODI,male,2008,2008,Kitply Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,Pakistan,bat,Pakistan
+355996,2009-06-07,T20,male,2009,2009,ICC World Twenty20,The Oval,London,Pakistan,England,Pakistan,field,England
+355999,2009-06-09,T20,male,2009,2009,ICC World Twenty20,Lord's,London,Pakistan,Netherlands,Pakistan,bat,Pakistan
+356005,2009-06-12,T20,male,2009,2009,ICC World Twenty20,Lord's,London,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+356008,2009-06-13,T20,male,2009,2009,ICC World Twenty20,The Oval,London,Pakistan,New Zealand,New Zealand,bat,Pakistan
+356012,2009-06-15,T20,male,2009,2009,ICC World Twenty20,The Oval,London,Pakistan,Ireland,Pakistan,bat,Pakistan
+356015,2009-06-18,T20,male,2009,2009,ICC World Twenty20,Trent Bridge,Nottingham,Pakistan,South Africa,Pakistan,bat,Pakistan
+356017,2009-06-21,T20,male,2009,2009,ICC World Twenty20,Lord's,London,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+361656,2008-10-11,T20,male,2008/09,2008,T20 Canada,"Maple Leaf North-West Ground, King City",King City,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+361660,2008-10-13,T20,male,2008/09,2008,T20 Canada,"Maple Leaf North-West Ground, King City",King City,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+374059,2008-11-12,ODI,male,2008/09,2008,Pakistan v West Indies ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,West Indies,West Indies,bat,Pakistan
+374060,2008-11-14,ODI,male,2008/09,2008,Pakistan v West Indies ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,West Indies,Pakistan,bat,Pakistan
+385749,2009-01-20,ODI,male,2008/09,2008,Sri Lanka in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+385750,2009-01-21,ODI,male,2008/09,2008,Sri Lanka in Pakistan ODI Series,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+385751,2009-01-24,ODI,male,2008/09,2008,Sri Lanka in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+388993,2009-02-21,Test,male,2008/09,2008,Sri Lanka in Pakistan Test Series,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Sri Lanka,bat,
+388994,2009-03-01,Test,male,2008/09,2008,Sri Lanka in Pakistan Test Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Pakistan,field,
+392615,2009-05-07,T20,male,2009,2009,,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,field,Pakistan
+392616,2009-04-22,ODI,male,2009,2009,Australia v Pakistan ODI Series,Dubai International Cricket Stadium,,Pakistan,Australia,Australia,bat,Pakistan
+392617,2009-04-24,ODI,male,2009,2009,Australia v Pakistan ODI Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Australia
+392618,2009-04-27,ODI,male,2009,2009,Australia v Pakistan ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,bat,Australia
+392619,2009-05-01,ODI,male,2009,2009,Australia v Pakistan ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Pakistan,bat,Australia
+392620,2009-05-03,ODI,male,2009,2009,Australia v Pakistan ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,bat,Pakistan
+403367,2009-07-04,Test,male,2009,2009,Pakistan in Sri Lanka Test Series,Galle International Stadium,,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+403368,2009-07-12,Test,male,2009,2009,Pakistan in Sri Lanka Test Series,"P Saravanamuttu Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+403369,2009-07-20,Test,male,2009,2009,Pakistan in Sri Lanka Test Series,Sinhalese Sports Club Ground,Colombo,Pakistan,Sri Lanka,Sri Lanka,field,
+403370,2009-07-30,ODI,male,2009,2009,Pakistan in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+403371,2009-08-01,ODI,male,2009,2009,Pakistan in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+403372,2009-08-03,ODI,male,2009,2009,Pakistan in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+403373,2009-08-07,ODI,male,2009,2009,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+403374,2009-08-09,ODI,male,2009,2009,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+403375,2009-08-12,T20,male,2009,2009,,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+406199,2009-12-26,Test,male,2009/10,2009,Pakistan in Australia Test Series,Melbourne Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+406200,2010-01-03,Test,male,2009/10,2009,Pakistan in Australia Test Series,Sydney Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+406201,2010-01-14,Test,male,2009/10,2009,Pakistan in Australia Test Series,"Bellerive Oval, Hobart",Hobart,Pakistan,Australia,Australia,bat,Australia
+406202,2010-01-22,ODI,male,2009/10,2009,Pakistan in Australia ODI Series,Brisbane Cricket Ground,Brisbane,Pakistan,Australia,Pakistan,bat,Australia
+406203,2010-01-24,ODI,male,2009/10,2009,Pakistan in Australia ODI Series,Sydney Cricket Ground,,Pakistan,Australia,Pakistan,field,Australia
+406204,2010-01-26,ODI,male,2009/10,2009,Pakistan in Australia ODI Series,Adelaide Oval,,Pakistan,Australia,Australia,bat,Australia
+406205,2010-01-29,ODI,male,2009/10,2009,Pakistan in Australia ODI Series,"WACA, Perth",Perth,Pakistan,Australia,Australia,bat,Australia
+406206,2010-01-31,ODI,male,2009/10,2009,Pakistan in Australia ODI Series,"WACA, Perth",Perth,Pakistan,Australia,Pakistan,bat,Australia
+406207,2010-02-05,T20,male,2009/10,2009,,Melbourne Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+412680,2010-05-01,T20,male,2010,2010,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+412683,2010-05-02,T20,male,2010,2010,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,Australia,Australia,bat,Australia
+412689,2010-05-06,T20,male,2010,2010,ICC World Twenty20,Kensington Oval,Barbados,Pakistan,England,England,field,England
+412693,2010-05-08,T20,male,2010,2010,ICC World Twenty20,Kensington Oval,Barbados,Pakistan,New Zealand,Pakistan,field,New Zealand
+412697,2010-05-10,T20,male,2010,2010,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,South Africa,Pakistan,bat,Pakistan
+412702,2010-05-14,T20,male,2010,2010,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,Australia,Australia,field,Australia
+415274,2009-09-23,ODI,male,2009/10,2009,ICC Champions Trophy,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,West Indies,West Indies,bat,Pakistan
+415278,2009-09-26,ODI,male,2009/10,2009,ICC Champions Trophy,"SuperSport Park, Centurion",Centurion,Pakistan,India,Pakistan,bat,Pakistan
+415283,2009-09-30,ODI,male,2009/10,2009,ICC Champions Trophy,"SuperSport Park, Centurion",Centurion,Pakistan,Australia,Australia,field,Australia
+415286,2009-10-03,ODI,male,2009/10,2009,ICC Champions Trophy,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,New Zealand,Pakistan,bat,New Zealand
+423778,2009-11-24,Test,male,2009/10,2009,Pakistan in New Zealand Test Series,"University Oval, Dunedin",Dunedin,Pakistan,New Zealand,Pakistan,field,New Zealand
+423779,2009-12-03,Test,male,2009/10,2009,Pakistan in New Zealand Test Series,"Basin Reserve, Wellington",Wellington,Pakistan,New Zealand,New Zealand,field,Pakistan
+423780,2009-12-11,Test,male,2009/10,2009,Pakistan in New Zealand Test Series,"McLean Park, Napier",Napier,Pakistan,New Zealand,Pakistan,bat,
+426392,2010-07-05,T20,male,2010,2010,MCC Spirit of Cricket T20I Series,Edgbaston,Birmingham,Pakistan,Australia,Pakistan,bat,Pakistan
+426393,2010-07-06,T20,male,2010,2010,MCC Spirit of Cricket T20I Series,Edgbaston,Birmingham,Pakistan,Australia,Pakistan,bat,Pakistan
+426394,2010-07-13,Test,male,2010,2010,MCC Spirit of Cricket Test Series,Lord's,London,Pakistan,Australia,Pakistan,field,Australia
+426395,2010-07-21,Test,male,2010,2010,MCC Spirit of Cricket Test Series,Headingley,Leeds,Pakistan,Australia,Australia,bat,Pakistan
+426413,2010-07-29,Test,male,2010,2010,Pakistan in England Test Series,Trent Bridge,Nottingham,Pakistan,England,England,bat,England
+426414,2010-08-06,Test,male,2010,2010,Pakistan in England Test Series,Edgbaston,Birmingham,Pakistan,England,Pakistan,bat,England
+426415,2010-08-18,Test,male,2010,2010,Pakistan in England Test Series,The Oval,London,Pakistan,England,England,bat,Pakistan
+426416,2010-08-26,Test,male,2010,2010,Pakistan in England Test Series,Lord's,London,Pakistan,England,Pakistan,field,England
+426417,2010-09-05,T20,male,2010,2010,Pakistan in England T20I Series,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,England,field,England
+426418,2010-09-07,T20,male,2010,2010,Pakistan in England T20I Series,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,Pakistan,bat,England
+426428,2010-09-10,ODI,male,2010,2010,NatWest Series,"Riverside Ground, Chester-le-Street",Chester-le-Street,Pakistan,England,Pakistan,field,England
+426429,2010-09-12,ODI,male,2010,2010,NatWest Series,Headingley,Leeds,Pakistan,England,Pakistan,bat,England
+426430,2010-09-17,ODI,male,2010,2010,NatWest Series,The Oval,London,Pakistan,England,Pakistan,bat,Pakistan
+426431,2010-09-20,ODI,male,2010,2010,NatWest Series,Lord's,London,Pakistan,England,Pakistan,bat,Pakistan
+426432,2010-09-22,ODI,male,2010,2010,NatWest Series,"The Rose Bowl, Southampton",Southampton,Pakistan,England,England,bat,England
+426720,2009-11-03,ODI,male,2009/10,2009,Pakistan v New Zealand ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,Pakistan,bat,Pakistan
+426721,2009-11-06,ODI,male,2009/10,2009,Pakistan v New Zealand ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+426722,2009-11-09,ODI,male,2009/10,2009,Pakistan v New Zealand ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+426723,2009-11-12,T20,male,2009/10,2009,Pakistan v New Zealand T20I Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,New Zealand,field,Pakistan
+426724,2009-11-13,T20,male,2009/10,2009,Pakistan v New Zealand T20I Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,Pakistan
+433563,2011-02-23,ODI,male,2010/11,2010,ICC Cricket World Cup,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Kenya,Pakistan,bat,Pakistan
+433567,2011-02-26,ODI,male,2010/11,2010,ICC Cricket World Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+433574,2011-03-03,ODI,male,2010/11,2010,ICC Cricket World Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Canada,Pakistan,bat,Pakistan
+433581,2011-03-08,ODI,male,2010/11,2010,ICC Cricket World Cup,Pallekele International Cricket Stadium,,Pakistan,New Zealand,New Zealand,bat,New Zealand
+433589,2011-03-14,ODI,male,2010/11,2010,ICC Cricket World Cup,Pallekele International Cricket Stadium,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+433596,2011-03-19,ODI,male,2010/11,2010,ICC Cricket World Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Australia,Australia,bat,Pakistan
+433600,2011-03-23,ODI,male,2010/11,2010,ICC Cricket World Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,West Indies,West Indies,bat,Pakistan
+433605,2011-03-30,ODI,male,2010/11,2010,ICC Cricket World Cup,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,India,India,bat,India
+440945,2010-02-19,T20,male,2009/10,2009,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,bat,England
+440946,2010-02-20,T20,male,2009/10,2009,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,field,Pakistan
+455231,2010-06-15,ODI,male,2010,2010,Asia Cup,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+455234,2010-06-19,ODI,male,2010,2010,Asia Cup,Rangiri Dambulla International Stadium,,Pakistan,India,Pakistan,bat,India
+455235,2010-06-21,ODI,male,2010,2010,Asia Cup,Rangiri Dambulla International Stadium,,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+461565,2010-10-27,T20,male,2010/11,2010,Pakistan v South Africa T20I Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,Pakistan,bat,South Africa
+461566,2010-10-29,ODI,male,2010/11,2010,Pakistan v South Africa ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,Pakistan,bat,South Africa
+461567,2010-10-31,ODI,male,2010/11,2010,Pakistan v South Africa ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,South Africa,bat,Pakistan
+461568,2010-11-02,ODI,male,2010/11,2010,Pakistan v South Africa ODI Series,Dubai International Cricket Stadium,,Pakistan,South Africa,Pakistan,field,South Africa
+461569,2010-11-05,ODI,male,2010/11,2010,Pakistan v South Africa ODI Series,Dubai International Cricket Stadium,,Pakistan,South Africa,South Africa,bat,Pakistan
+461570,2010-11-08,ODI,male,2010/11,2010,Pakistan v South Africa ODI Series,Dubai International Cricket Stadium,,Pakistan,South Africa,South Africa,bat,South Africa
+461571,2010-11-12,Test,male,2010/11,2010,Pakistan v South Africa Test Series,Dubai International Cricket Stadium,,Pakistan,South Africa,South Africa,bat,
+461572,2010-11-20,Test,male,2010/11,2010,Pakistan v South Africa Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,Pakistan,field,
+473918,2010-12-26,T20,male,2010/11,2010,Pakistan in New Zealand T20I Series,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,New Zealand,field,New Zealand
+473919,2010-12-28,T20,male,2010/11,2010,Pakistan in New Zealand T20I Series,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,field,New Zealand
+473920,2010-12-30,T20,male,2010/11,2010,Pakistan in New Zealand T20I Series,"AMI Stadium, Christchurch",Christchurch,Pakistan,New Zealand,Pakistan,bat,Pakistan
+473921,2011-01-07,Test,male,2010/11,2010,Pakistan in New Zealand Test Series,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,field,Pakistan
+473922,2011-01-15,Test,male,2010/11,2010,Pakistan in New Zealand Test Series,"Basin Reserve, Wellington",Wellington,Pakistan,New Zealand,New Zealand,bat,
+473923,2011-01-22,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,"Westpac Stadium, Wellington",Wellington,Pakistan,New Zealand,Pakistan,bat,New Zealand
+473924,2011-01-26,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,Queenstown Events Centre,,Pakistan,New Zealand,New Zealand,field,
+473925,2011-01-29,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,"AMI Stadium, Christchurch",Christchurch,Pakistan,New Zealand,New Zealand,field,Pakistan
+473926,2011-02-01,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,"McLean Park, Napier",Napier,Pakistan,New Zealand,New Zealand,bat,Pakistan
+473927,2011-02-03,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,New Zealand,field,Pakistan
+473928,2011-02-05,ODI,male,2010/11,2010,Pakistan in New Zealand ODI Series,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,field,New Zealand
+478279,2010-10-26,T20,male,2010/11,2010,Pakistan v South Africa T20I Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,Pakistan,bat,South Africa
+489212,2011-04-21,T20,male,2011,2011,,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,West Indies,bat,West Indies
+489213,2011-04-23,ODI,male,2011,2011,Pakistan in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,West Indies,bat,Pakistan
+489214,2011-04-25,ODI,male,2011,2011,Pakistan in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,Pakistan,field,Pakistan
+489215,2011-04-28,ODI,male,2011,2011,Pakistan in West Indies ODI Series,Kensington Oval,Barbados,Pakistan,West Indies,Pakistan,field,Pakistan
+489216,2011-05-02,ODI,male,2011,2011,Pakistan in West Indies ODI Series,Kensington Oval,Barbados,Pakistan,West Indies,West Indies,field,West Indies
+489217,2011-05-05,ODI,male,2011,2011,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,Pakistan,bat,West Indies
+489218,2011-05-12,Test,male,2011,2011,Pakistan in West Indies Test Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,West Indies,bat,West Indies
+489219,2011-05-20,Test,male,2011,2011,Pakistan in West Indies Test Series,"Warner Park, St Kitts",St Kitts,Pakistan,West Indies,Pakistan,bat,Pakistan
+523731,2011-09-01,Test,male,2011,2011,,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+523732,2011-09-08,ODI,male,2011,2011,Pakistan in Zimbabwe ODI Series,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+523733,2011-09-11,ODI,male,2011,2011,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+523734,2011-09-14,ODI,male,2011,2011,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+523735,2011-09-16,T20,male,2011,2011,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+523736,2011-09-18,T20,male,2011,2011,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+530424,2011-10-18,Test,male,2011/12,2011,Pakistan v Sri Lanka Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,field,
+530425,2011-10-26,Test,male,2011/12,2011,Pakistan v Sri Lanka Test Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+530426,2011-11-03,Test,male,2011/12,2011,Pakistan v Sri Lanka Test Series,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,
+530427,2011-11-11,ODI,male,2011/12,2011,Pakistan v Sri Lanka ODI Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+530428,2011-11-14,ODI,male,2011/12,2011,Pakistan v Sri Lanka ODI Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+530429,2011-11-18,ODI,male,2011/12,2011,Pakistan v Sri Lanka ODI Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+530430,2011-11-20,ODI,male,2011/12,2011,Pakistan v Sri Lanka ODI Series,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+530431,2011-11-23,ODI,male,2011/12,2011,Pakistan v Sri Lanka ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+530432,2011-11-25,T20,male,2011/12,2011,,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+531628,2012-01-17,Test,male,2011/12,2011,Pakistan v England Test Series,Dubai International Cricket Stadium,,Pakistan,England,England,bat,Pakistan
+531629,2012-01-25,Test,male,2011/12,2011,Pakistan v England Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,Pakistan,bat,Pakistan
+531630,2012-02-03,Test,male,2011/12,2011,Pakistan v England Test Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,bat,Pakistan
+531631,2012-02-13,ODI,male,2011/12,2011,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,England,bat,England
+531632,2012-02-15,ODI,male,2011/12,2011,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,England,bat,England
+531633,2012-02-18,ODI,male,2011/12,2011,Pakistan v England ODI Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,bat,England
+531634,2012-02-21,ODI,male,2011/12,2011,Pakistan v England ODI Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,bat,England
+531635,2012-02-23,T20,male,2011/12,2011,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,England,field,Pakistan
+531636,2012-02-25,T20,male,2011/12,2011,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,England,bat,England
+531637,2012-02-27,T20,male,2011/12,2011,Pakistan v England T20I Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,England,bat,England
+533280,2012-09-23,T20,male,2012/13,2012,ICC World Twenty20,Pallekele International Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,Pakistan
+533283,2012-09-25,T20,male,2012/13,2012,ICC World Twenty20,Pallekele International Cricket Stadium,,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+533286,2012-09-28,T20,male,2012/13,2012,ICC World Twenty20,"R Premadasa Stadium, Colombo",Colombo,Pakistan,South Africa,South Africa,bat,Pakistan
+533291,2012-09-30,T20,male,2012/13,2012,ICC World Twenty20,"R Premadasa Stadium, Colombo",Colombo,Pakistan,India,Pakistan,bat,India
+533294,2012-10-02,T20,male,2012/13,2012,ICC World Twenty20,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Australia,Australia,field,Pakistan
+533296,2012-10-04,T20,male,2012/13,2012,ICC World Twenty20,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+535794,2012-03-11,ODI,male,2011/12,2011,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+535796,2012-03-15,ODI,male,2011/12,2011,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+535798,2012-03-18,ODI,male,2011/12,2011,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,Pakistan,bat,India
+535800,2012-03-22,ODI,male,2011/12,2011,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+538068,2011-11-29,T20,male,2011/12,2011,,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+538069,2011-12-01,ODI,male,2011/12,2011,Pakistan in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+538070,2011-12-03,ODI,male,2011/12,2011,Pakistan in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+538071,2011-12-06,ODI,male,2011/12,2011,Pakistan in Bangladesh ODI Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",Chittagong,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+538072,2011-12-09,Test,male,2011/12,2011,Pakistan in Bangladesh Test Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",Chittagong,Pakistan,Bangladesh,Pakistan,field,Pakistan
+538073,2011-12-17,Test,male,2011/12,2011,Pakistan in Bangladesh Test Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,field,Pakistan
+562437,2012-06-01,T20,male,2012,2012,Pakistan in Sri Lanka T20I Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+562438,2012-06-03,T20,male,2012,2012,Pakistan in Sri Lanka T20I Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+562439,2012-06-07,ODI,male,2012,2012,Pakistan in Sri Lanka ODI Series,Pallekele International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+562440,2012-06-09,ODI,male,2012,2012,Pakistan in Sri Lanka ODI Series,Pallekele International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+562441,2012-06-13,ODI,male,2012,2012,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,
+562442,2012-06-16,ODI,male,2012,2012,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+562443,2012-06-18,ODI,male,2012,2012,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+562444,2012-06-22,Test,male,2012,2012,Pakistan in Sri Lanka Test Series,Galle International Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+562445,2012-06-30,Test,male,2012,2012,Pakistan in Sri Lanka Test Series,Sinhalese Sports Club Ground,Colombo,Pakistan,Sri Lanka,Sri Lanka,field,
+562446,2012-07-08,Test,male,2012,2012,Pakistan in Sri Lanka Test Series,Pallekele International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,
+567363,2013-02-01,Test,male,2012/13,2012,Pakistan in South Africa Test Series,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,South Africa,bat,South Africa
+567364,2013-02-14,Test,male,2012/13,2012,Pakistan in South Africa Test Series,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,field,South Africa
+567365,2013-02-22,Test,male,2012/13,2012,Pakistan in South Africa Test Series,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,bat,South Africa
+567367,2013-03-03,T20,male,2012/13,2012,Pakistan in South Africa T20I Series,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,Pakistan,bat,Pakistan
+567368,2013-03-10,ODI,male,2012/13,2012,Pakistan in South Africa ODI Series,"Mangaung Oval, Bloemfontein",Bloemfontein,Pakistan,South Africa,Pakistan,field,South Africa
+567369,2013-03-15,ODI,male,2012/13,2012,Pakistan in South Africa ODI Series,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,bat,Pakistan
+567370,2013-03-17,ODI,male,2012/13,2012,Pakistan in South Africa ODI Series,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,field,South Africa
+567371,2013-03-21,ODI,male,2012/13,2012,Pakistan in South Africa ODI Series,"Kingsmead, Durban",Durban,Pakistan,South Africa,South Africa,bat,Pakistan
+567372,2013-03-24,ODI,male,2012/13,2012,Pakistan in South Africa ODI Series,"Willowmoore Park, Benoni",Benoni,Pakistan,South Africa,Pakistan,bat,South Africa
+571145,2012-08-28,ODI,male,2012,2012,Pakistan v Australia ODI Series,Sharjah Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Australia
+571146,2012-08-31,ODI,male,2012,2012,Pakistan v Australia ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,bat,Pakistan
+571147,2012-09-03,ODI,male,2012,2012,Pakistan v Australia ODI Series,Sharjah Cricket Stadium,,Pakistan,Australia,Australia,field,Australia
+571148,2012-09-05,T20,male,2012,2012,Pakistan v Australia T20I Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,field,Pakistan
+571149,2012-09-07,T20,male,2012,2012,Pakistan v Australia T20I Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,
+571150,2012-09-10,T20,male,2012,2012,Pakistan v Australia T20I Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,field,Australia
+578615,2013-06-07,ODI,male,2013,2013,ICC Champions Trophy,The Oval,London,Pakistan,West Indies,West Indies,field,West Indies
+578618,2013-06-10,ODI,male,2013,2013,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,South Africa,South Africa,bat,South Africa
+578623,2013-06-15,ODI,male,2013,2013,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,India,India,field,India
+589306,2012-12-25,T20,male,2012/13,2012,Pakistan in India T20I Series,"M Chinnaswamy Stadium, Bangalore",Bangalore,Pakistan,India,Pakistan,field,Pakistan
+589307,2012-12-28,T20,male,2012/13,2012,Pakistan in India T20I Series,"Sardar Patel Stadium, Motera, Ahmedabad",Ahmedabad,Pakistan,India,Pakistan,field,India
+589308,2012-12-30,ODI,male,2012/13,2012,Pakistan in India ODI Series,MA Chidambaram Stadium,Chennai,Pakistan,India,Pakistan,field,Pakistan
+589309,2013-01-03,ODI,male,2012/13,2012,Pakistan in India ODI Series,"Eden Gardens, Kolkata",Kolkata,Pakistan,India,India,field,Pakistan
+589310,2013-01-06,ODI,male,2012/13,2012,Pakistan in India ODI Series,"Feroz Shah Kotla, Delhi",Delhi,Pakistan,India,India,bat,India
+601077,2013-05-17,ODI,male,2013,2013,Pakistan in Scotland ODI Series,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,Pakistan,Scotland,Pakistan,bat,Pakistan
+601612,2013-05-23,ODI,male,2013,2013,Pakistan in Ireland ODI Series,"Clontarf Cricket Club Ground, Dublin",Dublin,Pakistan,Ireland,Pakistan,bat,
+601613,2013-05-26,ODI,male,2013,2013,Pakistan in Ireland ODI Series,"Clontarf Cricket Club Ground, Dublin",Dublin,Pakistan,Ireland,Pakistan,field,Pakistan
+64022,2002-12-26,Test,male,2002/03,2002,Pakistan tour of South Africa,"Kingsmead, Durban",Durban,Pakistan,South Africa,Pakistan,field,South Africa
+64023,2003-01-02,Test,male,2002/03,2002,Pakistan tour of South Africa,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,South Africa,bat,South Africa
+64045,2003-09-03,Test,male,2003,2003,Bangladesh tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+64050,2003-10-17,Test,male,2003/04,2003,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,bat,Pakistan
+64051,2003-10-24,Test,male,2003/04,2003,South Africa tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,South Africa,bat,
+64083,2004-04-13,Test,male,2003/04,2003,India tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,India,India,field,India
+64113,2004-12-16,Test,male,2004/05,2004,Pakistan tour of Australia,"WACA, Perth",Perth,Pakistan,Australia,Pakistan,field,Australia
+645635,2013-07-14,ODI,male,2013,2013,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,West Indies,field,Pakistan
+645637,2013-07-16,ODI,male,2013,2013,Pakistan in West Indies ODI Series,"Providence Stadium, Guyana",Guyana,Pakistan,West Indies,Pakistan,field,West Indies
+645639,2013-07-19,ODI,male,2013,2013,Pakistan in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,West Indies,field,
+645641,2013-07-21,ODI,male,2013,2013,Pakistan in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,Pakistan,field,Pakistan
+645643,2013-07-24,ODI,male,2013,2013,Pakistan in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,Pakistan,West Indies,Pakistan,field,Pakistan
+645645,2013-07-27,T20,male,2013,2013,Pakistan in West Indies T20I Series,"Arnos Vale Ground, Kingstown",St Vincent,Pakistan,West Indies,West Indies,bat,Pakistan
+645647,2013-07-28,T20,male,2013,2013,Pakistan in West Indies T20I Series,"Arnos Vale Ground, Kingstown",St Vincent,Pakistan,West Indies,Pakistan,bat,Pakistan
+64833,2003-09-09,ODI,male,2003,2003,Bangladesh tour of Pakistan,Multan Cricket Stadium,Multan,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+64836,2003-09-18,ODI,male,2003,2003,Bangladesh tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+64837,2003-09-21,ODI,male,2003,2003,Bangladesh tour of Pakistan,"National Stadium, Karachi",Karachi,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+64838,2003-10-03,ODI,male,2003/04,2003,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,Pakistan,bat,Pakistan
+64839,2003-10-05,ODI,male,2003/04,2003,South Africa tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,South Africa,South Africa,field,Pakistan
+64840,2003-10-07,ODI,male,2003/04,2003,South Africa tour of Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan,South Africa,Pakistan,bat,South Africa
+64841,2003-10-10,ODI,male,2003/04,2003,South Africa tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,South Africa,Pakistan,bat,South Africa
+64842,2003-10-12,ODI,male,2003/04,2003,South Africa tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,South Africa,Pakistan,bat,South Africa
+64850,2003-11-29,ODI,male,2003/04,2003,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,New Zealand,bat,Pakistan
+64853,2003-12-01,ODI,male,2003/04,2003,New Zealand tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,New Zealand,Pakistan,bat,Pakistan
+64855,2003-12-05,ODI,male,2003/04,2003,New Zealand tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,New Zealand,New Zealand,bat,Pakistan
+64857,2004-01-03,ODI,male,2003/04,2003,Pakistan tour of New Zealand,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,New Zealand,field,New Zealand
+64882,2004-03-16,ODI,male,2003/04,2003,India tour of Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,India,Pakistan,bat,Pakistan
+64883,2004-03-19,ODI,male,2003/04,2003,India tour of Pakistan,"Arbab Niaz Stadium, Peshawar",Peshawar,Pakistan,India,Pakistan,field,Pakistan
+64884,2004-03-21,ODI,male,2003/04,2003,India tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,India,Pakistan,bat,India
+64885,2004-03-24,ODI,male,2003/04,2003,India tour of Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan,India,Pakistan,field,India
+649087,2013-10-14,Test,male,2013/14,2013,Pakistan v South Africa Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,South Africa,bat,Pakistan
+649089,2013-10-23,Test,male,2013/14,2013,Pakistan v South Africa Test Series,Dubai International Cricket Stadium,,Pakistan,South Africa,Pakistan,bat,South Africa
+649091,2013-10-30,ODI,male,2013/14,2013,Pakistan v South Africa ODI Series,Sharjah Cricket Stadium,,Pakistan,South Africa,South Africa,bat,South Africa
+649093,2013-11-01,ODI,male,2013/14,2013,Pakistan v South Africa ODI Series,Dubai International Cricket Stadium,,Pakistan,South Africa,Pakistan,bat,Pakistan
+649095,2013-11-06,ODI,male,2013/14,2013,Pakistan v South Africa ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,South Africa,bat,South Africa
+649097,2013-11-08,ODI,male,2013/14,2013,Pakistan v South Africa ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,South Africa,South Africa,bat,South Africa
+649099,2013-11-11,ODI,male,2013/14,2013,Pakistan v South Africa ODI Series,Sharjah Cricket Stadium,,Pakistan,South Africa,South Africa,bat,South Africa
+649101,2013-11-13,T20,male,2013/14,2013,Pakistan v South Africa T20I Series,Dubai International Cricket Stadium,,Pakistan,South Africa,Pakistan,bat,South Africa
+649103,2013-11-15,T20,male,2013/14,2013,Pakistan v South Africa T20I Series,Dubai International Cricket Stadium,,Pakistan,South Africa,South Africa,bat,South Africa
+64939,2005-04-05,ODI,male,2004/05,2004,Pakistan tour of India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Pakistan,India,India,bat,India
+64941,2005-04-12,ODI,male,2004/05,2004,Pakistan tour of India,"Sardar Patel Stadium, Motera, Ahmedabad",Ahmedabad,Pakistan,India,India,bat,Pakistan
+64942,2005-04-15,ODI,male,2004/05,2004,Pakistan tour of India,"Green Park, Kanpur",Kanpur,Pakistan,India,India,bat,Pakistan
+64943,2005-04-17,ODI,male,2004/05,2004,Pakistan tour of India,"Feroz Shah Kotla, Delhi",Delhi,Pakistan,India,Pakistan,bat,Pakistan
+65029,2003-06-17,ODI,male,2003,2003,Pakistan tour of England and Scotland,Old Trafford,Manchester,Pakistan,England,England,bat,Pakistan
+65030,2003-06-20,ODI,male,2003,2003,Pakistan tour of England and Scotland,The Oval,London,Pakistan,England,Pakistan,bat,England
+65031,2003-06-22,ODI,male,2003,2003,Pakistan tour of England and Scotland,Lord's,London,Pakistan,England,England,field,England
+65238,2003-02-11,ODI,male,2002/03,2002,ICC World Cup,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,Australia,Pakistan,field,Australia
+65247,2003-02-16,ODI,male,2002/03,2002,ICC World Cup,"Diamond Oval, Kimberley",Kimberley,Pakistan,Namibia,Pakistan,bat,Pakistan
+65255,2003-02-22,ODI,male,2002/03,2002,ICC World Cup,"Newlands, Cape Town",Cape Town,Pakistan,England,England,bat,England
+65260,2003-02-25,ODI,male,2002/03,2002,ICC World Cup,"Boland Park, Paarl",Paarl,Pakistan,Netherlands,Netherlands,field,Pakistan
+65268,2003-03-01,ODI,male,2002/03,2002,ICC World Cup,"SuperSport Park, Centurion",Centurion,Pakistan,India,Pakistan,bat,India
+65273,2003-03-04,ODI,male,2002/03,2002,ICC World Cup,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan,Zimbabwe,Pakistan,bat,
+656405,2015-02-15,ODI,male,2014/15,2014,ICC Cricket World Cup,Adelaide Oval,,Pakistan,India,India,bat,India
+656417,2015-02-21,ODI,male,2014/15,2014,ICC Cricket World Cup,"Hagley Oval, Christchurch",Christchurch,Pakistan,West Indies,Pakistan,field,West Indies
+656443,2015-03-01,ODI,male,2014/15,2014,ICC Cricket World Cup,Brisbane Cricket Ground,Brisbane,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+656447,2015-03-04,ODI,male,2014/15,2014,ICC Cricket World Cup,"McLean Park, Napier",Napier,Pakistan,United Arab Emirates,United Arab Emirates,field,Pakistan
+656455,2015-03-07,ODI,male,2014/15,2014,ICC Cricket World Cup,"Eden Park, Auckland",Auckland,Pakistan,South Africa,South Africa,field,Pakistan
+656481,2015-03-15,ODI,male,2014/15,2014,ICC Cricket World Cup,Adelaide Oval,,Pakistan,Ireland,Ireland,bat,Pakistan
+656487,2015-03-20,ODI,male,2014/15,2014,ICC Cricket World Cup,Adelaide Oval,,Pakistan,Australia,Pakistan,bat,Australia
+65659,2005-01-19,ODI,male,2004/05,2004,VB Series,Brisbane Cricket Ground,Brisbane,Pakistan,West Indies,Pakistan,field,Pakistan
+65661,2005-01-23,ODI,male,2004/05,2004,VB Series,Sydney Cricket Ground,Sydney,Pakistan,Australia,Australia,field,Australia
+65664,2005-01-30,ODI,male,2004/05,2004,VB Series,"WACA, Perth",Perth,Pakistan,Australia,Australia,bat,Pakistan
+65665,2005-02-01,ODI,male,2004/05,2004,VB Series,"WACA, Perth",Perth,Pakistan,West Indies,West Indies,field,Pakistan
+65666,2005-02-04,ODI,male,2004/05,2004,VB Series,Melbourne Cricket Ground,,Pakistan,Australia,Australia,bat,Australia
+65708,2004-07-17,ODI,male,2004,2004,Asia Cup,Sinhalese Sports Club Ground,Colombo,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+65713,2004-07-21,ODI,male,2004,2004,Asia Cup,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+657633,2013-12-11,T20,male,2013/14,2013,Pakistan v Sri Lanka T20I Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+657635,2013-12-13,T20,male,2013/14,2013,Pakistan v Sri Lanka T20I Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+657637,2013-12-18,ODI,male,2013/14,2013,Pakistan v Sri Lanka ODI Series,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+657639,2013-12-20,ODI,male,2013/14,2013,Pakistan v Sri Lanka ODI Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+657641,2013-12-22,ODI,male,2013/14,2013,Pakistan v Sri Lanka ODI Series,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+657643,2013-12-25,ODI,male,2013/14,2013,Pakistan v Sri Lanka ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+657645,2013-12-27,ODI,male,2013/14,2013,Pakistan v Sri Lanka ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+657647,2013-12-31,Test,male,2013/14,2013,Pakistan v Sri Lanka Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Sri Lanka,Pakistan,field,
+657649,2014-01-08,Test,male,2013/14,2013,Pakistan v Sri Lanka Test Series,Dubai International Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka
+657651,2014-01-16,Test,male,2013/14,2013,Pakistan v Sri Lanka Test Series,Sharjah Cricket Stadium,,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+65803,2003-04-03,ODI,male,2002/03,2002,Cherry Blossom Sharjah Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+65804,2003-04-04,ODI,male,2002/03,2002,Cherry Blossom Sharjah Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+65808,2003-04-08,ODI,male,2002/03,2002,Cherry Blossom Sharjah Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Kenya,Pakistan,bat,Pakistan
+65809,2003-04-10,ODI,male,2002/03,2002,Cherry Blossom Sharjah Cup,Sharjah Cricket Stadium,Sharjah,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+659545,2013-08-23,T20,male,2013,2013,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+659547,2013-08-24,T20,male,2013,2013,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+659549,2013-08-27,ODI,male,2013,2013,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,bat,Zimbabwe
+659551,2013-08-29,ODI,male,2013,2013,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+659553,2013-08-31,ODI,male,2013,2013,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+659555,2013-09-03,Test,male,2013,2013,Pakistan in Zimbabwe Test Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+659557,2013-09-10,Test,male,2013,2013,Pakistan in Zimbabwe Test Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,bat,Zimbabwe
+66202,2004-09-14,ODI,male,2004,2004,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,Kenya,Pakistan,field,Pakistan
+66207,2004-09-19,ODI,male,2004,2004,ICC Champions Trophy,Edgbaston,Birmingham,Pakistan,India,Pakistan,field,Pakistan
+66209,2004-09-22,ODI,male,2004,2004,ICC Champions Trophy,"The Rose Bowl, Southampton",Southampton,Pakistan,West Indies,Pakistan,bat,West Indies
+66357,2003-05-10,ODI,male,2003,2003,Bank Alfalah Cup,Rangiri Dambulla International Stadium,Dambulla,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan
+66358,2003-05-11,ODI,male,2003,2003,Bank Alfalah Cup,Rangiri Dambulla International Stadium,Dambulla,Pakistan,New Zealand,New Zealand,field,New Zealand
+66363,2003-05-23,ODI,male,2003,2003,Bank Alfalah Cup,Rangiri Dambulla International Stadium,Dambulla,Pakistan,New Zealand,Pakistan,bat,New Zealand
+66374,2004-08-21,ODI,male,2004,2004,Videocon Cup,"VRA Ground, Amstelveen",Amstelveen,Pakistan,India,India,field,Pakistan
+66377,2004-09-04,ODI,male,2004,2004,Pakistan tour of England,Lord's,London,Pakistan,Australia,Pakistan,field,Australia
+66378,2004-09-30,ODI,male,2004/05,2004,Paktel Cup,Multan Cricket Stadium,Multan,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+66379,2004-10-03,ODI,male,2004/05,2004,Paktel Cup,"Arbab Niaz Stadium, Peshawar",Peshawar,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+66380,2004-10-06,ODI,male,2004/05,2004,Paktel Cup,"National Stadium, Karachi",Karachi,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+66383,2004-10-16,ODI,male,2004/05,2004,Paktel Cup,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Sri Lanka,Pakistan,field,Sri Lanka
+682921,2014-03-21,T20,male,2013/14,2013,World T20,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,India,field,India
+682927,2014-03-23,T20,male,2013/14,2013,World T20,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Australia,Australia,field,Pakistan
+682949,2014-03-30,T20,male,2013/14,2013,World T20,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+682959,2014-04-01,T20,male,2013/14,2013,World T20,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,West Indies,West Indies,bat,West Indies
+685727,2013-11-20,T20,male,2013/14,2013,Pakistan in South Africa T20I Series,"Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,South Africa,Pakistan,field,South Africa
+685729,2013-11-22,T20,male,2013/14,2013,Pakistan in South Africa T20I Series,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,Pakistan,bat,Pakistan
+685731,2013-11-24,ODI,male,2013/14,2013,Pakistan in South Africa ODI Series,"Newlands, Cape Town",Cape Town,Pakistan,South Africa,Pakistan,bat,Pakistan
+685733,2013-11-27,ODI,male,2013/14,2013,Pakistan in South Africa ODI Series,"St George's Park, Port Elizabeth",Port Elizabeth,Pakistan,South Africa,South Africa,field,Pakistan
+685735,2013-11-30,ODI,male,2013/14,2013,Pakistan in South Africa ODI Series,"SuperSport Park, Centurion",Centurion,Pakistan,South Africa,South Africa,field,South Africa
+710291,2014-02-25,ODI,male,2013/14,2013,Asia Cup,"Khan Shaheb Osman Ali Stadium, Fatullah",Fatullah,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+710301,2014-03-02,ODI,male,2013/14,2013,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,Pakistan,field,Pakistan
+710305,2014-03-04,ODI,male,2013/14,2013,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,bat,Pakistan
+710311,2014-03-08,ODI,male,2013/14,2013,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+727917,2014-10-05,T20,male,2014/15,2014,,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Australia
+727919,2014-10-07,ODI,male,2014/15,2014,Pakistan v Australia ODI Series,Sharjah Cricket Stadium,,Pakistan,Australia,Australia,bat,Australia
+727921,2014-10-10,ODI,male,2014/15,2014,Pakistan v Australia ODI Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Australia
+727923,2014-10-12,ODI,male,2014/15,2014,Pakistan v Australia ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Australia,bat,Australia
+727927,2014-10-22,Test,male,2014/15,2014,Pakistan v Australia Test Series,Dubai International Cricket Stadium,,Pakistan,Australia,Pakistan,bat,Pakistan
+727929,2014-10-30,Test,male,2014/15,2014,Pakistan v Australia Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,Australia,Pakistan,bat,Pakistan
+742611,2014-11-09,Test,male,2014/15,2014,Pakistan v New Zealand Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,Pakistan,bat,Pakistan
+742613,2014-11-17,Test,male,2014/15,2014,Pakistan v New Zealand Test Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,New Zealand,bat,
+742615,2014-11-26,Test,male,2014/15,2014,Pakistan v New Zealand Test Series,Sharjah Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,New Zealand
+742617,2014-12-04,T20,male,2014/15,2014,Pakistan v New Zealand T20I Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,field,Pakistan
+742619,2014-12-08,ODI,male,2014/15,2014,Pakistan v New Zealand ODI Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,field,Pakistan
+742621,2014-12-12,ODI,male,2014/15,2014,Pakistan v New Zealand ODI Series,Sharjah Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,New Zealand
+742623,2014-12-14,ODI,male,2014/15,2014,Pakistan v New Zealand ODI Series,Sharjah Cricket Stadium,,Pakistan,New Zealand,Pakistan,bat,Pakistan
+742625,2014-12-17,ODI,male,2014/15,2014,Pakistan v New Zealand ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+742627,2014-12-19,ODI,male,2014/15,2014,Pakistan v New Zealand ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,New Zealand,New Zealand,bat,New Zealand
+745153,2014-08-06,Test,male,2014,2014,Pakistan in Sri Lanka Test Series,Galle International Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+745155,2014-08-14,Test,male,2014,2014,Pakistan in Sri Lanka Test Series,Sinhalese Sports Club Ground,Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+745159,2014-08-23,ODI,male,2014,2014,Pakistan in Sri Lanka ODI Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+745161,2014-08-26,ODI,male,2014,2014,Pakistan in Sri Lanka ODI Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+745163,2014-08-30,ODI,male,2014,2014,Pakistan in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+749795,2015-01-31,ODI,male,2014/15,2014,Pakistan in New Zealand ODI Series,"Westpac Stadium, Wellington",Wellington,Pakistan,New Zealand,New Zealand,field,New Zealand
+749797,2015-02-03,ODI,male,2014/15,2014,Pakistan in New Zealand ODI Series,"McLean Park, Napier",Napier,Pakistan,New Zealand,New Zealand,bat,New Zealand
+754039,2014-12-05,T20,male,2014/15,2014,Pakistan v New Zealand T20I Series,Dubai International Cricket Stadium,,Pakistan,New Zealand,Pakistan,field,New Zealand
+858485,2015-04-17,ODI,male,2015,2015,Pakistan in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,bat,Bangladesh
+858487,2015-04-19,ODI,male,2015,2015,Pakistan in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Bangladesh
+858489,2015-04-22,ODI,male,2015,2015,Pakistan in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Bangladesh
+858491,2015-04-24,T20,male,2015,2015,,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Bangladesh
+858493,2015-04-28,Test,male,2015,2015,Pakistan in Bangladesh Test Series,"Sheikh Abu Naser Stadium, Khulna",Khulna,Pakistan,Bangladesh,Bangladesh,bat,
+858495,2015-05-06,Test,male,2015,2015,Pakistan in Bangladesh Test Series,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Bangladesh,field,Pakistan
+860263,2015-06-17,Test,male,2015,2015,Pakistan in Sri Lanka Test Series,Galle International Stadium,,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+860265,2015-06-25,Test,male,2015,2015,Pakistan in Sri Lanka Test Series,"P Saravanamuttu Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+860267,2015-07-03,Test,male,2015,2015,Pakistan in Sri Lanka Test Series,Pallekele International Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+860269,2015-07-11,ODI,male,2015,2015,Pakistan in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,,Pakistan,Sri Lanka,Pakistan,field,Pakistan
+860271,2015-07-15,ODI,male,2015,2015,Pakistan in Sri Lanka ODI Series,Pallekele International Cricket Stadium,,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka
+860273,2015-07-19,ODI,male,2015,2015,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+860275,2015-07-22,ODI,male,2015,2015,Pakistan in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+860277,2015-07-26,ODI,male,2015,2015,Pakistan in Sri Lanka ODI Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka
+860279,2015-07-30,T20,male,2015,2015,Pakistan in Sri Lanka T20I Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Pakistan,bat,Pakistan
+860281,2015-08-01,T20,male,2015,2015,Pakistan in Sri Lanka T20I Series,"R Premadasa Stadium, Colombo",Colombo,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan
+868723,2015-05-22,T20,male,2015,2015,Zimbabwe in Pakistan T20I Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+868725,2015-05-24,T20,male,2015,2015,Zimbabwe in Pakistan T20I Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Zimbabwe,Zimbabwe,bat,Pakistan
+868727,2015-05-26,ODI,male,2015,2015,Zimbabwe in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+868729,2015-05-29,ODI,male,2015,2015,Zimbabwe in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+868731,2015-05-31,ODI,male,2015,2015,Zimbabwe in Pakistan ODI Series,"Gaddafi Stadium, Lahore",Lahore,Pakistan,Zimbabwe,Pakistan,bat,
+902635,2015-10-13,Test,male,2015/16,2015,Pakistan v England Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,Pakistan,bat,
+902637,2015-10-22,Test,male,2015/16,2015,Pakistan v England Test Series,Dubai International Cricket Stadium,,Pakistan,England,Pakistan,bat,Pakistan
+902639,2015-11-01,Test,male,2015/16,2015,Pakistan v England Test Series,Sharjah Cricket Stadium,,Pakistan,England,Pakistan,bat,Pakistan
+902641,2015-11-11,ODI,male,2015/16,2015,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,England,bat,Pakistan
+902643,2015-11-13,ODI,male,2015/16,2015,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,Pakistan,England,England,bat,England
+902645,2015-11-17,ODI,male,2015/16,2015,Pakistan v England ODI Series,Sharjah Cricket Stadium,,Pakistan,England,Pakistan,bat,England
+902647,2015-11-20,ODI,male,2015/16,2015,Pakistan v England ODI Series,Dubai International Cricket Stadium,,Pakistan,England,England,bat,England
+902649,2015-11-26,T20,male,2015/16,2015,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,England,bat,England
+902651,2015-11-27,T20,male,2015/16,2015,Pakistan v England T20I Series,Dubai International Cricket Stadium,,Pakistan,England,England,bat,England
+902653,2015-11-30,T20,male,2015/16,2015,Pakistan v England T20I Series,Sharjah Cricket Stadium,,Pakistan,England,England,bat,
+913641,2016-07-14,Test,male,2016,2016,Pakistan in England Test Series,Lord's,London,Pakistan,England,Pakistan,bat,Pakistan
+913643,2016-07-22,Test,male,2016,2016,Pakistan in England Test Series,Old Trafford,Manchester,Pakistan,England,England,bat,England
+913645,2016-08-03,Test,male,2016,2016,Pakistan in England Test Series,Edgbaston,Birmingham,Pakistan,England,Pakistan,field,England
+913647,2016-08-11,Test,male,2016,2016,Pakistan in England Test Series,The Oval,London,Pakistan,England,England,bat,Pakistan
+913649,2016-08-18,ODI,male,2016,2016,Pakistan in Ireland ODI Series,"Malahide Cricket Ground, Dublin",Dublin,Pakistan,Ireland,Ireland,field,Pakistan
+913653,2016-08-24,ODI,male,2016,2016,Pakistan in England ODI Series,"The Rose Bowl, Southampton",Southampton,Pakistan,England,Pakistan,bat,England
+913655,2016-08-27,ODI,male,2016,2016,Pakistan in England ODI Series,Lord's,London,Pakistan,England,Pakistan,bat,England
+913657,2016-08-30,ODI,male,2016,2016,Pakistan in England ODI Series,Trent Bridge,Nottingham,Pakistan,England,England,bat,England
+913659,2016-09-01,ODI,male,2016,2016,Pakistan in England ODI Series,Headingley,Leeds,Pakistan,England,Pakistan,bat,England
+913661,2016-09-04,ODI,male,2016,2016,Pakistan in England ODI Series,"Sophia Gardens, Cardiff",Cardiff,Pakistan,England,Pakistan,field,Pakistan
+913663,2016-09-07,T20,male,2016,2016,,Old Trafford,Manchester,Pakistan,England,England,bat,Pakistan
+914221,2016-01-15,T20,male,2015/16,2015,Pakistan in New Zealand T20I Series,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,New Zealand,field,Pakistan
+914223,2016-01-17,T20,male,2015/16,2015,Pakistan in New Zealand T20I Series,"Seddon Park, Hamilton",Hamilton,Pakistan,New Zealand,Pakistan,bat,New Zealand
+914225,2016-01-22,T20,male,2015/16,2015,Pakistan in New Zealand T20I Series,"Westpac Stadium, Wellington",Wellington,Pakistan,New Zealand,Pakistan,field,New Zealand
+914227,2016-01-25,ODI,male,2015/16,2015,Pakistan in New Zealand ODI Series,"Basin Reserve, Wellington",Wellington,Pakistan,New Zealand,Pakistan,field,New Zealand
+914265,2016-01-31,ODI,male,2015/16,2015,Pakistan in New Zealand ODI Series,"Eden Park, Auckland",Auckland,Pakistan,New Zealand,Pakistan,bat,New Zealand
+919603,2015-09-27,T20,male,2015/16,2015,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+919605,2015-09-29,T20,male,2015/16,2015,Pakistan in Zimbabwe T20I Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,bat,Pakistan
+919607,2015-10-01,ODI,male,2015/16,2015,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan
+919609,2015-10-03,ODI,male,2015/16,2015,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,field,Zimbabwe
+919611,2015-10-05,ODI,male,2015/16,2015,Pakistan in Zimbabwe ODI Series,Harare Sports Club,,Pakistan,Zimbabwe,Pakistan,field,Pakistan
+951333,2016-03-16,T20,male,2015/16,2015,World T20,"Eden Gardens, Kolkata",Kolkata,Pakistan,Bangladesh,Pakistan,bat,Pakistan
+951341,2016-03-19,T20,male,2015/16,2015,World T20,"Eden Gardens, Kolkata",Kolkata,Pakistan,India,India,field,India
+951349,2016-03-22,T20,male,2015/16,2015,World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,New Zealand,New Zealand,bat,New Zealand
+951355,2016-03-25,T20,male,2015/16,2015,World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Pakistan,Australia,Australia,bat,Australia
+966751,2016-02-27,T20,male,2015/16,2015,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,India,India,field,India
+966755,2016-02-29,T20,male,2015/16,2015,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,United Arab Emirates,United Arab Emirates,bat,Pakistan
+966759,2016-03-02,T20,male,2015/16,2015,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Bangladesh,Pakistan,bat,Bangladesh
+966763,2016-03-04,T20,male,2015/16,2015,Asia Cup,"Shere Bangla National Stadium, Mirpur",Mirpur,Pakistan,Sri Lanka,Pakistan,field,Pakistan
